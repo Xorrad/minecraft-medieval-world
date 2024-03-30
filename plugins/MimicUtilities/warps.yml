@@ -1,0 +1,351 @@
+stonehenge:
+  loc:
+    x: 16.073146776246983
+    y: 63.0
+    z: 337.4975310620966
+    pitch: -1.327638
+    yaw: -179.85252
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+qori:
+  loc:
+    x: -926.9333770160756
+    y: 63.0
+    z: 571.2344295742691
+    pitch: -5.416594
+    yaw: 145.66086
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+lachsburg:
+  loc:
+    x: -440.5211170753972
+    y: 64.0
+    z: 674.5477576202143
+    pitch: 3.4021096
+    yaw: -8.203613
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+polium:
+  loc:
+    x: 102.71603997325887
+    y: 73.0
+    z: -306.78787092046787
+    pitch: -2.044287
+    yaw: 87.446045
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+viking:
+  loc:
+    x: -1915.8182041306961
+    y: 63.125
+    z: 3097.150917661027
+    pitch: -0.8844725
+    yaw: 62.72751
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+ostra:
+  loc:
+    x: -220.07278906574177
+    y: 64.0
+    z: 156.86651327014042
+    pitch: -2.3096716
+    yaw: 88.76343
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+desert:
+  loc:
+    x: 785.9982223364964
+    y: 80.0
+    z: -2.366251639382064
+    pitch: 5.4973626
+    yaw: 2.256958
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+mine:
+  loc:
+    x: -417.2156997216826
+    y: 67.0
+    z: -620.9352222533219
+    pitch: 0.35204375
+    yaw: 91.0692
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+wakefield:
+  loc:
+    x: -318.7875740377074
+    y: 66.0
+    z: -412.75898571343856
+    pitch: 1.3280773
+    yaw: -86.154144
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+hasbula:
+  loc:
+    x: -1102.9065212425508
+    y: 63.5
+    z: 361.21642884390815
+    pitch: -2.7546046
+    yaw: -179.41614
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+arra:
+  loc:
+    x: -840.6197441453946
+    y: 63.0
+    z: 395.83279031020686
+    pitch: -1.5597358
+    yaw: 154.24748
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+bergen:
+  loc:
+    x: -184.38693202582
+    y: 65.0
+    z: 638.2018499347921
+    pitch: -0.092016555
+    yaw: -1.974823
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+grünheim:
+  loc:
+    x: 705.4270107802328
+    y: 70.9375
+    z: 4021.2024646828904
+    pitch: -0.46932027
+    yaw: 85.68652
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+fowey:
+  loc:
+    x: 451.7671150559573
+    y: 63.0
+    z: 498.9583499467145
+    pitch: 1.211328
+    yaw: 90.04067
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+duma:
+  loc:
+    x: 189.34886746749507
+    y: 72.0
+    z: 1071.5266287247568
+    pitch: 5.854601
+    yaw: -44.035034
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+grasbury:
+  loc:
+    x: 504.33392554129756
+    y: 63.0
+    z: 271.63256131515743
+    pitch: -1.9836227
+    yaw: 117.479004
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+camp_mudd:
+  loc:
+    x: -165.07657439808526
+    y: 72.0
+    z: 863.9895580268595
+    pitch: 2.0708394
+    yaw: -1.5406494
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+wolldorf:
+  loc:
+    x: 44.55093598776909
+    y: 78.0
+    z: 799.4652218417698
+    pitch: 1.981799
+    yaw: -67.50696
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+indian:
+  loc:
+    x: 808.2661256221471
+    y: 69.0
+    z: 888.8518483121917
+    pitch: 3.2253878
+    yaw: 177.35359
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+poros:
+  loc:
+    x: -146.4689444914525
+    y: 69.0
+    z: -1117.3360215771463
+    pitch: -1.1229311
+    yaw: -179.88531
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+razawed:
+  loc:
+    x: -1435.438178429934
+    y: 69.0
+    z: -219.6570400196261
+    pitch: -0.12199643
+    yaw: 88.64861
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+sudae_eamiq:
+  loc:
+    x: -1694.8335569018961
+    y: 64.0
+    z: -455.46184407031456
+    pitch: 1.3572764
+    yaw: -178.11328
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+alhadid:
+  loc:
+    x: -1521.0961499485923
+    y: 72.0
+    z: -630.6294327977859
+    pitch: 3.4121728
+    yaw: -90.55957
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+landfriðr:
+  loc:
+    x: 303.2760520681035
+    y: 81.0
+    z: 651.9018596153121
+    pitch: -2.3104665
+    yaw: 1.9279778
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+khadra:
+  loc:
+    x: -1725.0859334053298
+    y: 62.0
+    z: -277.4708160059783
+    pitch: 2.476963
+    yaw: -1.6160889
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+weinbüren:
+  loc:
+    x: 36.790942979119926
+    y: 63.0
+    z: 643.5846297109975
+    pitch: 0.93581617
+    yaw: -30.857422
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+cälenlönn:
+  loc:
+    x: -2049.1618405433283
+    y: 82.0
+    z: -325.743753060284
+    pitch: -8.043282
+    yaw: 7.9023438
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+acyra:
+  loc:
+    x: 1235.2681379555274
+    y: 63.0
+    z: -1503.4373596001317
+    pitch: -0.48534986
+    yaw: 91.23743
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+qalia:
+  loc:
+    x: 936.8813517182609
+    y: 72.0
+    z: -1292.9022996508043
+    pitch: 1.6439282
+    yaw: 0.4416504
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+regnum:
+  loc:
+    x: 936.5576324379964
+    y: 66.0
+    z: -1902.4421548835826
+    pitch: -5.010622
+    yaw: 178.42386
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+radolia:
+  loc:
+    x: 644.5336530574097
+    y: 72.0
+    z: -1916.7981217615545
+    pitch: -0.92929393
+    yaw: 92.00635
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+velia:
+  loc:
+    x: 223.37432219563473
+    y: 64.0
+    z: -1947.0401325980158
+    pitch: 0.13539061
+    yaw: 0.42175293
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+vostrum:
+  loc:
+    x: 115.74017887513416
+    y: 69.0
+    z: -1534.6821775380738
+    pitch: -2.7038846
+    yaw: 89.87402
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+mine2:
+  loc:
+    x: -683.1170632566233
+    y: 84.0
+    z: -1056.1465880819462
+    pitch: -16.57061
+    yaw: 89.75015
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+madinat:
+  loc:
+    x: -1321.177391963274
+    y: 63.0
+    z: 875.7762074842127
+    pitch: 1.7430887
+    yaw: 89.168106
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+barton:
+  loc:
+    x: -401.2994481872368
+    y: 75.0
+    z: -97.14244522900218
+    pitch: 0.14988759
+    yaw: 99.87268
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+leikeburg:
+  loc:
+    x: -1332.798962633415
+    y: 65.0
+    z: 2349.747066029911
+    pitch: 2.514922
+    yaw: -89.18884
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+weisshafen:
+  loc:
+    x: -1245.5238460713629
+    y: 63.0
+    z: 2028.186862839466
+    pitch: -0.38351786
+    yaw: 35.363388
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+lohr:
+  loc:
+    x: -966.3806308233566
+    y: 63.0
+    z: 2258.493903963211
+    pitch: 1.8937687
+    yaw: -12.112549
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a

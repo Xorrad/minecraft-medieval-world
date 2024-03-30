@@ -1,0 +1,24 @@
+last_id: 3
+1272b46c-1295-4e30-8e90-74edc04d59ab:
+  '1':
+    employee: ae599511-761e-4557-898a-b42312d6c634
+    rank: WORKER
+    salary: 0
+    duration: 1
+    manager: ae599511-761e-4557-898a-b42312d6c634
+    date: 1
+  '2':
+    employee: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+    rank: CEO
+    salary: 0
+    duration: 1
+    manager: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+    date: 1
+5f92e3ad-e46e-4b3f-99de-b2b074ab8bee:
+  '1':
+    employee: ce411a33-7ebb-4ffd-a56e-34ed9a402ced
+    rank: CEO
+    salary: 0
+    duration: 1
+    manager: ce411a33-7ebb-4ffd-a56e-34ed9a402ced
+    date: 1

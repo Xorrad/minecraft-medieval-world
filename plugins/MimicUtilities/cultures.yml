@@ -1,0 +1,14 @@
+ESARIC:
+  name: Esaric
+  name-manager:
+    type: list
+    file-path: names/esaric
+NORDEN:
+  name: Norden
+  name-manager:
+    type: list
+    file-path: names/norden
+    template:
+      male: sss
+      female: ss
+      family: ss

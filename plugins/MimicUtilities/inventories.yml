@@ -1,0 +1,354 @@
+7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a:
+  rp:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    amount: 18
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/3XJMQ6DMBAF0S8MiuOCcJ6URPQpuMBCDLJw1tJ6G24PBYUbuhk9Bzi0fUzzNrAG3UdaLarwQ/cP7GehRd8TMXt5wn5J1QtnB8BYPK5HFbNB80kxySkvlCS3ZJaYCqthUPeU/dktcACa7FL/mgAAAA==
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: RED_BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      patterns:
+      - ==: Pattern
+        color: BLACK
+        pattern: ls
+      - ==: Pattern
+        color: BLACK
+        pattern: rs
+      - ==: Pattern
+        color: YELLOW
+        pattern: flo
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: IRON_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/1XLwQ6CMBCE4UkLsfQgPo9HjHcPvMCCxTSW3WTZi2+vIRzqcfLNH4GI81Bkft/Zsn1GegW4/MRlzZxmpcWuEzEn7RAeZJaUtwjAB5yODbeqR3uTIvqTBhX5pUhlfW1ukr/MoxloS/sNXxc52zyaAAAA
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
+      blockMaterial: SHIELD
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:ponder_goat_horn
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:dream_goat_horn
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BLACK_BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      lore:
+      - '"(+NBT)"'
+      patterns:
+      - ==: Pattern
+        color: YELLOW
+        pattern: mr
+      - ==: Pattern
+        color: BLACK
+        pattern: flo
+      - ==: Pattern
+        color: YELLOW
+        pattern: bo
+      - ==: Pattern
+        color: BLACK
+        pattern: bo
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  pattern:
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BROWN_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BLACK_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PURPLE_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: YELLOW_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GRAY_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: LIME_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BLUE_WOOL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WHITE_WOOL
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  build:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: CAULDRON
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BARREL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: DECORATED_POT
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: 84abb1f0-6f24-497e-b7fe-906240055c06
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwNmU0NTMxOGU5YTRhNmJmZTEzMmYyMDJmZTNjZWFjMTVkMTFlYWVkYmVmMWViMDZhMzc2ZGI0MzMwOTBhOCJ9fX0=
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"text":"Bag of Coins"}'
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: a3ee20f5-6c9d-40d2-96e0-24705988f268
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVmZDY3ZDU2ZmZjNTNmYjM2MGExNzg3OWQ5YjUzMzhkNzMzMmQ4ZjEyOTQ5MWE1ZTE3ZThkNmU4YWVhNmMzYSJ9fX0=
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: a9ca983b-68ad-488b-a664-3030824e88ef
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyMDUxNWQ2NTE2ODE5MTE0M2Q3OWUxMTEwNDU5NWRkN2Q4YzE0Y2Y1NjQ1YWVhMGRlZTQ3ZTE2YTU4OTk0NSJ9fX0=
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"text":"Glass of Beer"}'
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: 69bcc186-fe80-4635-a085-9cec311d8d9f
+        name: Thanauser
+        properties:
+        - name: textures
+          value: ewogICJ0aW1lc3RhbXAiIDogMTY5MTMzNTUzMzQ4MSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwZTI1ZmMyZmFmOTVmNGQ4N2QyNGNjNWUyNjBkYTBiNjRhZmU5NmZlZGNlMWRlYmZmZjFjODFjODg2ZjFiMiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=
+          signature: vsMB5AAdVB2Vcp0LstncWG2yTHPDj6Wse7b6kcXG7ivEYpcNa5+cOIXrVGvCzJZyE8DNGHgwulvNs+Ln/WdQwXyYDN4C5B5s9ed9nCwjQMOBWBcPbYa4Kx0v/AaECxrpbUN9K7ZT9P6LD/PEuCv3ZUEBvPszIpdRYfhMwWKlfpfv4dYxlJcipzM/YLEA8lSMbJXgnJFe2Dc2HP6ms3T1wTGcsU8OhSPNZdyZETO10JrGjhSUxtCmllV16Bn8zkaXDnM3e+JQ0KDLwM3RdPwtucnPsZI1xQCAZBFtA4vRhDro6GGAWiu8BQgLbji60jJrNcOb9PmvO//pqZhampyy91/bARYooYIsMO3ad6AtNL+61Ok0rZNWqsetc0zaWSDlJ1nTmgbdT2XTV5EgxuX+vX+VavLAKCVuGEhprU8Q7LCBU5H5vY0x/ZLRYxqu/8BJvKTZoVlYV2KRLSKjiRPyEHLiUyrhI/dlgoyb1C+bsZqhHX4QKsjBWFyBI/LuqDEBL1Sf+VLn/HHbOLFjO/dYLKVvWbNj1UXbWxK/HfJFcqirOUKCgpY7tnaOC5W2iJLpqD5w3J2yDXEIgJy8myhXljEEpBU99sjXB3vGTda4L3HfQOIqkvT7nCtJsErxBeMDxrWuvXd311DlkS6Uiay2CLxAsrIIPnkLSDU+qD77SCQ=
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  viking:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_TRAPDOOR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STRIPPED_SPRUCE_WOOD
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: MOSS_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_FENCE_GATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_STAIRS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_SLAB
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_PLANKS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STRIPPED_DARK_OAK_WOOD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_FENCE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPRUCE_PLANKS
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BONE_MEAL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOLDEN_PICKAXE
+  - null
+  - null
+  - null
+  - null
+  - null
