@@ -4,5 +4,6 @@ logs/
 world */
 world_nether/
 world_the_end/
+plugins/WorldEdit/.archive-unpack/
 .update-lock
 spigot-1.20.1.jar
