@@ -352,3 +352,158 @@
   - null
   - null
   - null
+  save:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_AXE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/3XJMQ6DMBAF0S8MiuOCcJ6URPQpuMBCDLJw1tJ6G24PBYUbuhk9Bzi0fUzzNrAG3UdaLarwQ/cP7GehRd8TMXt5wn5J1QtnB8BYPK5HFbNB80kxySkvlCS3ZJaYCqthUPeU/dktcACa7FL/mgAAAA==
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: RED_BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      patterns:
+      - ==: Pattern
+        color: BLACK
+        pattern: ls
+      - ==: Pattern
+        color: BLACK
+        pattern: rs
+      - ==: Pattern
+        color: YELLOW
+        pattern: flo
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    amount: 17
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: NETHERITE_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/1XLwQ6CMBCE4UkLsfQgPo9HjHcPvMCCxTSW3WTZi2+vIRzqcfLNH4GI81Bkft/Zsn1GegW4/MRlzZxmpcWuEzEn7RAeZJaUtwjAB5yODbeqR3uTIvqTBhX5pUhlfW1ukr/MoxloS/sNXxc52zyaAAAA
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
+      blockMaterial: SHIELD
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Stripped
+        Jungle Log (sideways)"}],"text":""}'
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa29406
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjljYzU0MGI1NzEzNTIyOGQ1OGE2NzFiYjgyOGE3ZTdjNzY0NGQ4OGYxM2JlYzExN2M2NmUyMTVhM2NlOTA5YSJ9fX0=
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BLACK_BANNER
+    meta:
+      ==: ItemMeta
+      meta-type: BANNER
+      lore:
+      - '"(+NBT)"'
+      patterns:
+      - ==: Pattern
+        color: YELLOW
+        pattern: mr
+      - ==: Pattern
+        color: BLACK
+        pattern: flo
+      - ==: Pattern
+        color: YELLOW
+        pattern: bo
+      - ==: Pattern
+        color: BLACK
+        pattern: bo
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:ponder_goat_horn
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:dream_goat_horn
+  - null
+  - null
+  - null
+  - null
+  - null
