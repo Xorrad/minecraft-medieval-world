@@ -349,3 +349,12 @@ lohr:
     yaw: -12.112549
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+al_maras:
+  loc:
+    x: -684.5223135409217
+    y: 63.0
+    z: 914.3128599634782
+    pitch: 4.138046
+    yaw: 0.1244812
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
