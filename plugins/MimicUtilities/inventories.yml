@@ -1,24 +1,8 @@
 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a:
   rp:
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: NETHERITE_SWORD
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      enchants:
-        DAMAGE_ALL: 5
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPLASH_POTION
-    meta:
-      ==: ItemMeta
-      meta-type: POTION
-      potion-type: minecraft:strong_healing
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STICK
-    amount: 18
+  - null
+  - null
+  - null
   - null
   - null
   - null
@@ -49,14 +33,24 @@
       - ==: Pattern
         color: YELLOW
         pattern: flo
-  - null
-  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    amount: 18
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Baguette
+        de selection"}],"text":""}'
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
-    type: IRON_SWORD
+    type: NETHERITE_SWORD
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
     type: BOW
@@ -76,25 +70,36 @@
       meta-type: TILE_ENTITY
       internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
       blockMaterial: SHIELD
-  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
   - null
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
-    type: GOAT_HORN
+    type: POTION
     meta:
       ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:ponder_goat_horn
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
-    type: GOAT_HORN
+    type: SPLASH_POTION
     meta:
       ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:dream_goat_horn
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
     type: BLACK_BANNER
@@ -122,8 +127,20 @@
   - null
   - null
   - null
-  - null
-  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:ponder_goat_horn
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:dream_goat_horn
   - null
   - null
   - null
@@ -353,9 +370,7 @@
   - null
   - null
   save:
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: WOODEN_AXE
+  - null
   - null
   - null
   - null
@@ -391,19 +406,15 @@
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
     type: STICK
-    amount: 17
+    amount: 18
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
-    type: PLAYER_HEAD
+    type: STICK
     meta:
       ==: ItemMeta
-      meta-type: SKULL
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Baguette
+        de selection"}],"text":""}'
   - null
   - null
   - null
@@ -429,21 +440,19 @@
       meta-type: TILE_ENTITY
       internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
       blockMaterial: SHIELD
-  - null
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
     type: PLAYER_HEAD
     meta:
       ==: ItemMeta
       meta-type: SKULL
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Stripped
-        Jungle Log (sideways)"}],"text":""}'
       skull-owner:
         ==: PlayerProfile
-        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa29406
+        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
         properties:
         - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjljYzU0MGI1NzEzNTIyOGQ1OGE2NzFiYjgyOGE3ZTdjNzY0NGQ4OGYxM2JlYzExN2M2NmUyMTVhM2NlOTA5YSJ9fX0=
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
+  - null
   - null
   - null
   - null
