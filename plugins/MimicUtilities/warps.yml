@@ -358,3 +358,21 @@ al_maras:
     yaw: 0.1244812
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+al_jabeeza:
+  loc:
+    x: 491.2451481924718
+    y: 63.0
+    z: 736.8344681116298
+    pitch: 3.2860548
+    yaw: 89.497314
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+qalea:
+  loc:
+    x: -321.39930078217816
+    y: 63.0
+    z: 1451.9222667440702
+    pitch: -1.5507491
+    yaw: 0.30151367
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
