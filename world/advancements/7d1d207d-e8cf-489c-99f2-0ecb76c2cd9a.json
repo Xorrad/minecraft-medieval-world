@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-07-07 10:35:44 +0200",
       "minecraft:mushroom_fields": "2023-08-08 11:47:47 +0200",
       "minecraft:taiga": "2021-10-20 17:53:19 +0200",
       "minecraft:deep_ocean": "2023-04-10 16:37:08 +0200",
@@ -6058,6 +6059,18 @@
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2024-06-23 14:27:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-07-07 11:16:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-07-07 14:13:58 +0200"
     },
     "done": true
   },

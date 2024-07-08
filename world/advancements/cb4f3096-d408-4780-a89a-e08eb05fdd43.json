@@ -1348,45 +1348,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-03-10 16:28:17 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2024-03-10 15:48:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_boat": "2024-03-10 16:38:36 +0100"
+      "has_cut_sandstone": "2024-03-10 15:48:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-03-10 15:48:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-03-10 16:07:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-03-10 16:07:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-10 16:07:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-03-10 16:18:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-03-10 16:18:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-03-10 16:28:17 +0100"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-03-10 16:30:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-03-10 16:52:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2024-03-10 16:52:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2024-03-10 16:38:36 +0100"
     },
     "done": true
   },
@@ -1402,33 +1420,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-03-10 16:18:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-03-10 16:52:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-03-10 16:07:12 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-03-10 16:30:26 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
-      "has_salmon": "2024-03-10 16:52:34 +0100"
+      "has_boat": "2024-03-10 16:38:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-03-10 16:38:36 +0100"
     },
     "done": true
   },
@@ -1450,33 +1456,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-03-10 16:07:17 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-03-10 16:38:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2024-03-10 15:48:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2024-03-10 16:18:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2024-03-10 15:48:58 +0100"
     },
     "done": true
   },
@@ -1498,9 +1480,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_log": "2024-03-10 16:07:17 +0100"
+      "has_salmon": "2024-03-10 16:52:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-03-10 16:52:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-03-10 16:52:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-03-10 16:52:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-07-07 12:51:04 +0200"
     },
     "done": true
   },
