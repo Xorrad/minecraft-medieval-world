@@ -1,0 +1,35 @@
+ESARIC:
+  name: Esaric
+  name-manager:
+    type: list
+    file-path: names/esaric
+NORDEN:
+  name: Norden
+  name-manager:
+    type: list
+    file-path: names/norden
+IMPERIAL:
+  name: Imperial
+  name-manager:
+    type: list
+    file-path: names/imperial
+VIKINN:
+  name: Vikinn
+  name-manager:
+    type: list
+    file-path: names/vikinn
+NORMEN:
+  name: Normen
+  name-manager:
+    type: list
+    file-path: names/normen
+NORISH:
+  name: Norish
+  name-manager:
+    type: list
+    file-path: names/norish
+MIXTE:
+  name: Mixte
+  name-manager:
+    type: namey
+    file-path: names/mixte

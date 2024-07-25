@@ -1,0 +1,66 @@
+MENU_TITLE_CHARACTER: '%1$s'
+MENU_TITLE_CHANGE_CULTURE: Choose a culture
+MENU_TITLE_CHANGE_FAITH: Choose a faith
+MENU_TITLE_CHANGE_PERSONALITY: Choose a personality
+CULTURE_SELECT: '&7Left-click to select this culture.'
+FAITH_SELECT: '&7Left-click to select this faith.'
+CMD_CULTURE_EXISTS: '&eThe culture &7%s&e already exists.'
+CMD_CULTURE_DOESNT_EXIST: '&eThe culture &7%s&e does not exist.'
+CMD_CULTURE_CREATED: '&eThe culture &7%s&e has been created.'
+CMD_CULTURE_DELETED: '&eThe culture &7%s&e has been deleted.'
+CMD_CULTURE_NO_MANUAL_NAMES: '&eThe culture &7%s&e name manager does not allow adding
+  names manually.'
+CMD_CULTURE_NAME_ADDED: '&eThe name &7"%1$s"&e has been added to the culture &7%2$s&e
+  for &7%3$s&e.'
+CMD_CULTURE_NAME_REMOVED: '&eThe name &7"%1$s"&e has been removed from the culture
+  &7%2$s&e for &7%3$s&e.'
+CMD_CULTURE_NAME_DOESNT_EXIST: '&eThe culture &7%1$s&e does not have the name &7"%2$s"&e
+  for &7%3$s&e.'
+CMD_CULTURE_SHOW: '&eDisplay info for %s.'
+CMD_CULTURE_INFO: '&e%s:'
+CMD_CULTURE_INFO_NAME: '&eNom: &7"%s"'
+CMD_CULTURE_INFO_NAMEMANAGER: '&eGénérateur de noms:'
+CMD_CULTURE_NAMETYPE_INVALID: '&eThe name type &7%s&e is not valid.'
+CMD_CULTURE_NAMEMANAGER_INVALID: '&eThe names manager type &7%s&e does not exist.'
+CMD_CULTURE_NAMEMANAGER_CHANGED: '&eThe names manager type for &7%1$s&e is now &7%2$s&e.'
+CMD_CULTURE_NAMEMANAGER_TEMPLATE_UNSUPPORTED: '&eThe name manager for &7%s&e does
+  not support generation template.'
+CMD_CULTURE_NAMEMANAGER_TEMPLATE_CHANGED: '&eThe &7%1$s &etemplate for &7%2$s&e is
+  now &7"%3$s"&e.'
+CMD_CULTURE_LIST: '&eCultures:'
+CMD_FAITH_CREATED: '&eThe faith &7%s&e has been created.'
+CMD_FAITH_DELETED: '&eThe faith &7%s&e has been deleted.'
+CMD_FAITH_EXISTS: '&eThe faith &7%s&e already exists.'
+CMD_FAITH_DOESNT_EXIST: '&eThe faith &7%s&e does not exist.'
+CMD_FAITH_LIST: '&eFaiths:'
+NAME: '&eNom'
+CULTURE: '&eCulture'
+FAITH: '&eFaith'
+ERROR: '&cAn error occurred, contact an administrator for further details.'
+SEPARATOR: '&e&m───────────────────'
+NONE: '&cNone'
+DECREASE_BY_ONE: '&7Left-click to &cdecrease&7 by one.'
+INCREASE_BY_ONE: '&7Left-click to &aincrease&7 by one.'
+STAT_STRENGTH: '&eStrength'
+STAT_DEXTERITY: '&eDexterity'
+STAT_CONSTITUTION: '&eConstitution'
+STAT_INTELLIGENCE: '&eIntelligence'
+STAT_CHARISMA: '&eCharisma'
+FAMILY_FATHER: Father
+FAMILY_MOTHER: Mother
+FAMILY_PARTNER: Partner
+FAMILY_CHILD: Child
+FAMILY_CHANGED: '&a%s&e''s %s set to &a%s.'
+FAMILY_SELECT: '&eLeft-click on the character you want to assign as a relative.'
+MOUNT: '&eMount'
+MOUNT_DESC: '&fClick to mount character.'
+INVENTORY: '&eInventory'
+INVENTORY_DESC: '&fClick to open this character''s inventory.'
+EQUIP: '&eEquipment'
+EQUIP_DESC: '&fClick to edit this character''s equipment.'
+SIT: '&eSit'
+SIT_DESC: '&fClick to sit this character.'
+FOLLOW: '&eFollow'
+FOLLOW_DESC: '&fClick to make this character follow/unfollow you.'
+SELECT: '&eSelect'
+SELECT_DESC: '&fClick to select this character.'
