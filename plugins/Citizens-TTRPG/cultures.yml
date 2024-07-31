@@ -18,11 +18,11 @@ VIKINN:
   name-manager:
     type: list
     file-path: names/vikinn
-NORMEN:
-  name: Normen
+BREIZHAT:
+  name: Breizhat
   name-manager:
     type: list
-    file-path: names/normen
+    file-path: names/breizhat
 NORISH:
   name: Norish
   name-manager:
