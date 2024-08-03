@@ -1,0 +1,28 @@
+# Triggers switching
+trigger-enabled: "&e[%plugin%] &f%player% enabled %trigger% in world %world%"
+trigger-disabled: "&e[%plugin%] &f%player% disabled %trigger% in world %world%"
+
+# Inventories
+inventory-title: "%category% of %world%"
+trigger-enabled-state: "&aEnabled"
+trigger-disabled-state: "&cDisabled"
+trigger-unsupported-state: "&cUnsupported on current Minecraft version"
+trigger-realtime: "&eWarning!\n&eSwitching this option will affect\n&ell blocks in the world in real time!\n&e(all in-memory chunks)"
+trigger-on-update: "&aWill affect updating blocks only"
+category-inventory-title: "Physics of %world%"
+select-another-category-item: "&eSelect another category"
+
+# Switching trigger command
+only-players-menu: "&c[%plugin%] Only players can open the menu. For switching triggers use /pc <world> <trigger>"
+bad-perms-inventory: "&c[%plugin%] You don't have permissions to open the menu"
+bad-perms-trigger: "&c[%plugin%] You don't have permissions to switch trigger %trigger%"
+world-or-key-not-specified: "&c[%plugin%] Specify the world name and the trigger name"
+world-not-found: "&c[%plugin%] World %world% not found"
+key-not-found: "&c[%plugin%] Key %key% not found"
+
+# Reloading command
+bad-perms-reload: "&c[%plugin%] You don't have permissions to reload plugin configs"
+config-reloaded: "&e[%plugin%] Config reloaded"
+
+# Other
+debug-message: "&e[%plugin%] &fAction %action% (%content%) was detected on: %pos%"

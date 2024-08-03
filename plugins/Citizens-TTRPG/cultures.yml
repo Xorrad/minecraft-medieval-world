@@ -33,3 +33,17 @@ MIXTE:
   name-manager:
     type: namey
     file-path: names/mixte
+INDAJAL:
+  name: Indajal
+  name-manager:
+    type: list
+    file-path: names/indajal
+CROGK:
+  name: Crogk
+  name-manager:
+    type: rinkworks
+    file-path: names/crogk
+    template:
+      male: (k|gh|g|kh|kr|q|qr|gr|tr|t)(o|a|u)(k|g|p|c|r|q|t|gk|gk|gk|rr|)
+      female: (k|gh|g|kh|kr|q|qr|gr|tr|t|g|g)(e|a)(k|g|p|c|r|q|t||||)
+      family: ''

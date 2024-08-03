@@ -1,0 +1,3 @@
+check-for-updates: true # Automatically check for new versions
+metrics: true # Send info to https://bstats.org/plugin/bukkit/PhysicsControl
+language: "auto" # Available: auto (use system lang), en, ru, etc. Full list: https://spigotmc.org/resources/72124
