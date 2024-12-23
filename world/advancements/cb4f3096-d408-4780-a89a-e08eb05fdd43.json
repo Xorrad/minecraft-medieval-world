@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2021-10-23 19:54:51 +0200",
+      "minecraft:deep_ocean": "2024-11-25 22:22:43 +0100",
       "minecraft:eroded_badlands": "2024-03-10 16:25:18 +0100",
       "minecraft:frozen_river": "2024-03-10 16:37:23 +0100",
       "minecraft:sunflower_plains": "2023-05-29 17:08:16 +0200",
@@ -33,6 +34,7 @@
       "minecraft:stony_peaks": "2024-03-10 16:26:08 +0100",
       "minecraft:sparse_jungle": "2022-04-18 21:13:55 +0200",
       "minecraft:river": "2021-10-20 17:33:45 +0200",
+      "minecraft:lukewarm_ocean": "2024-11-17 10:59:54 +0100",
       "minecraft:stony_shore": "2023-08-20 15:01:30 +0200",
       "minecraft:snowy_plains": "2024-03-10 16:27:18 +0100",
       "minecraft:snowy_taiga": "2024-03-10 16:37:27 +0100",
@@ -288,7 +290,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2021-10-20 17:36:07 +0200"
+      "cooked_beef": "2021-10-20 17:36:07 +0200",
+      "carrot": "2024-11-25 22:02:47 +0100"
     },
     "done": false
   },
@@ -1513,6 +1516,66 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-08-19 13:52:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-11-17 10:58:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-17 11:04:29 +0100"
     },
     "done": true
   },

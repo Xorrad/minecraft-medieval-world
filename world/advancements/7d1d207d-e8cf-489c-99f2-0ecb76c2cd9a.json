@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-07-07 10:35:44 +0200",
+      "minecraft:old_growth_pine_taiga": "2024-11-29 22:40:11 +0100",
       "minecraft:mushroom_fields": "2023-08-08 11:47:47 +0200",
       "minecraft:taiga": "2021-10-20 17:53:19 +0200",
       "minecraft:deep_ocean": "2023-04-10 16:37:08 +0200",
@@ -2065,10 +2066,12 @@
       "suspicious_stew": "2023-06-18 16:00:57 +0200",
       "cookie": "2024-01-20 12:36:23 +0100",
       "glow_berries": "2023-05-31 06:22:03 +0200",
+      "golden_carrot": "2024-11-25 22:16:47 +0100",
       "enchanted_golden_apple": "2023-08-01 23:04:55 +0200",
       "mushroom_stew": "2023-06-04 16:53:03 +0200",
       "rabbit_stew": "2024-01-20 12:37:02 +0100",
-      "cooked_salmon": "2023-06-04 16:04:02 +0200"
+      "cooked_salmon": "2023-06-04 16:04:02 +0200",
+      "carrot": "2024-11-25 22:11:10 +0100"
     },
     "done": false
   },
@@ -6083,6 +6086,48 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-08-08 15:31:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-11-16 15:05:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-11-27 20:00:41 +0100"
     },
     "done": true
   },

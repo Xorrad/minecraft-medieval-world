@@ -288,11 +288,11 @@ velia:
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
 vostrum:
   loc:
-    x: 115.74017887513416
-    y: 69.0
-    z: -1534.6821775380738
-    pitch: -2.7038846
-    yaw: 89.87402
+    x: 160.19238111285463
+    y: 63.0
+    z: -1545.1888595450357
+    pitch: -3.9855437
+    yaw: 88.652954
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
 mine2:
@@ -446,5 +446,14 @@ aldemnar:
     z: -103.14644237051209
     pitch: 3.0516899
     yaw: 0.7350007
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+cordua:
+  loc:
+    x: 53.94504319127255
+    y: 78.0
+    z: -1244.875155117497
+    pitch: 4.7741585
+    yaw: -91.16589
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
