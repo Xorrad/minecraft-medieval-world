@@ -484,3 +484,12 @@ helmford:
     yaw: -56.395447
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+jannar:
+  loc:
+    x: -1181.4049116912072
+    y: 64.0
+    z: 106.48064563059305
+    pitch: 3.6066072
+    yaw: -13.641602
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
