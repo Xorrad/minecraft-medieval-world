@@ -2625,6 +2625,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-01-11 15:50:15 +0100",
+      "minecraft:sheep": "2025-01-11 15:43:00 +0100",
+      "minecraft:cow": "2025-01-11 17:08:05 +0100",
       "minecraft:horse": "2023-04-10 16:46:08 +0200"
     },
     "done": false
@@ -2931,10 +2934,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-11 15:44:39 +0100",
+      "cooked_mutton": "2025-01-18 18:21:40 +0100",
       "cooked_beef": "2023-06-04 16:04:10 +0200",
+      "baked_potato": "2025-01-18 18:59:04 +0100",
       "golden_apple": "2023-08-01 23:03:19 +0200",
+      "bread": "2025-01-18 18:34:04 +0100",
       "cooked_chicken": "2023-06-18 16:07:24 +0200",
-      "mushroom_stew": "2023-06-04 16:54:19 +0200"
+      "mushroom_stew": "2023-06-04 16:54:19 +0200",
+      "carrot": "2025-01-11 15:27:43 +0100"
     },
     "done": false
   },
@@ -4657,6 +4665,66 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2024-07-07 14:14:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-11 15:29:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-11 15:29:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 15:30:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 15:30:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-11 15:30:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-11 17:37:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-18 18:25:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-18 18:25:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-18 18:25:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-18 18:40:32 +0100"
     },
     "done": true
   },

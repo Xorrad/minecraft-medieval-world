@@ -15,7 +15,7 @@
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/3XJMQ6DMBAF0S8MiuOCcJ6URPQpuMBCDLJw1tJ6G24PBYUbuhk9Bzi0fUzzNrAG3UdaLarwQ/cP7GehRd8TMXt5wn5J1QtnB8BYPK5HFbNB80kxySkvlCS3ZJaYCqthUPeU/dktcACa7FL/mgAAAA==
+      internal: H4sIAAAAAAAA/3XKsQ6DIBSF4RPRFBmsz9NR4+7QF7ilaIh4SeAuffsyOLC4nT/fMYDBMIVoj4XFy+9New+9kohLnA0ApfG4Gk3ICt0cQ0xFnqgp3ZLaQqyshUI7UXZlDxqN/2I8PTubaJPXh5hduf0BVJQvUJoAAAA=
       blockMaterial: SHIELD
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
@@ -60,7 +60,7 @@
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/1XLwQ6CMBCE4UkLsfQgPo9HjHcPvMCCxTSW3WTZi2+vIRzqcfLNH4GI81Bkft/Zsn1GegW4/MRlzZxmpcWuEzEn7RAeZJaUtwjAB5yODbeqR3uTIvqTBhX5pUhlfW1ukr/MoxloS/sNXxc52zyaAAAA
+      internal: H4sIAAAAAAAA/1XLMQ6DMBBE0ZFNhOMi4TyUIPoUucBCDLIwu5K9TW4fIqVwytH74wGP25Bk2SfWqO8nbVe4B6mGzMUDsA7tb8Mc2eIySpJ8SoOK7JqksnttZpa/m0UzUAnfzMHEF7ojclgyrdrPxBzO7ANny8vemgAAAA==
       blockMaterial: SHIELD
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
@@ -385,7 +385,7 @@
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/3XJMQ6DMBAF0S8MiuOCcJ6URPQpuMBCDLJw1tJ6G24PBYUbuhk9Bzi0fUzzNrAG3UdaLarwQ/cP7GehRd8TMXt5wn5J1QtnB8BYPK5HFbNB80kxySkvlCS3ZJaYCqthUPeU/dktcACa7FL/mgAAAA==
+      internal: H4sIAAAAAAAA/3XKsQ6DIBSF4RPRFBmsz9NR4+7QF7ilaIh4SeAuffsyOLC4nT/fMYDBMIVoj4XFy+9New+9kohLnA0ApfG4Gk3ICt0cQ0xFnqgp3ZLaQqyshUI7UXZlDxqN/2I8PTubaJPXh5hduf0BVJQvUJoAAAA=
       blockMaterial: SHIELD
   - ==: org.bukkit.inventory.ItemStack
     v: 3465
@@ -430,7 +430,7 @@
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/1XLwQ6CMBCE4UkLsfQgPo9HjHcPvMCCxTSW3WTZi2+vIRzqcfLNH4GI81Bkft/Zsn1GegW4/MRlzZxmpcWuEzEn7RAeZJaUtwjAB5yODbeqR3uTIvqTBhX5pUhlfW1ukr/MoxloS/sNXxc52zyaAAAA
+      internal: H4sIAAAAAAAA/1XLMQ6DMBBE0ZFNhOMi4TyUIPoUucBCDLIwu5K9TW4fIqVwytH74wGP25Bk2SfWqO8nbVe4B6mGzMUDsA7tb8Mc2eIySpJ8SoOK7JqksnttZpa/m0UzUAnfzMHEF7ojclgyrdrPxBzO7ANny8vemgAAAA==
       blockMaterial: SHIELD
   - ==: org.bukkit.inventory.ItemStack
     v: 3465

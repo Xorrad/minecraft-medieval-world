@@ -1944,6 +1944,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-01-11 16:42:21 +0100",
       "minecraft:panda": "2022-04-17 13:44:45 +0200"
     },
     "done": false
@@ -2053,6 +2054,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-04-26 16:58:42 +0200",
+      "cooked_mutton": "2025-01-18 18:26:48 +0100",
       "sweet_berries": "2023-05-29 11:44:33 +0200",
       "cooked_beef": "2023-06-04 17:24:43 +0200",
       "chorus_fruit": "2024-01-20 12:37:11 +0100",
@@ -6140,6 +6142,24 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-02 16:06:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 18:20:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 18:20:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 18:20:10 +0100"
     },
     "done": true
   },
