@@ -529,3 +529,12 @@ oberndorf:
     yaw: 98.82715
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+mongol:
+  loc:
+    x: -61.53156771644772
+    y: 62.0
+    z: -3524.339766483214
+    pitch: 0.64015794
+    yaw: -178.78438
+    world: world
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
