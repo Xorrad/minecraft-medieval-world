@@ -65,6 +65,11 @@ advancements:
   - minecraft:story/disabled
 world-settings:
   default:
+    seed-ancientcity: 20083232
+    seed-trailruins: 83469867
+    seed-buriedtreasure: 10387320
+    seed-mineshaft: default
+    seed-stronghold: default
     below-zero-generation-in-existing-chunks: true
     simulation-distance: default
     thunder-chance: 100000
@@ -105,6 +110,9 @@ world-settings:
       misc: 32
       other: 64
     growth:
+      torchflower-modifier: 100
+      glowberry-modifier: 100
+      pitcherplant-modifier: 100
       twistingvines-modifier: 100
       weepingvines-modifier: 100
       cavevines-modifier: 100
@@ -127,6 +135,25 @@ world-settings:
     random-light-updates: false
     mob-spawn-range: 4
     entity-activation-range:
+      water: 16
+      villagers: 32
+      flying-monsters: 32
+      wake-up-inactive:
+        animals-max-per-tick: 4
+        animals-every: 1200
+        animals-for: 100
+        monsters-max-per-tick: 8
+        monsters-every: 400
+        monsters-for: 100
+        villagers-max-per-tick: 4
+        villagers-every: 600
+        villagers-for: 100
+        flying-monsters-max-per-tick: 8
+        flying-monsters-every: 200
+        flying-monsters-for: 100
+      villagers-work-immunity-after: 100
+      villagers-work-immunity-for: 20
+      villagers-active-for-panic: true
       ignore-spectators: false
       raiders: 48
       animals: 32

@@ -7,3 +7,7 @@ world_the_end/
 plugins/WorldEdit/.archive-unpack/
 .update-lock
 spigot-1.20.1.jar
+.console_history
+cache/
+libraries/
+versions/
