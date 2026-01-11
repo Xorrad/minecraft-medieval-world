@@ -1,0 +1,24 @@
+{
+  "type": "imageframe:url_static",
+  "index": 0,
+  "name": "creation_of_adam",
+  "url": "https://i.ibb.co/cK1qVH5g/La-Cr-ation-d-Adam.jpg",
+  "width": 2,
+  "height": 1,
+  "ditheringType": "nearest-color",
+  "creator": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a",
+  "hasAccess": {},
+  "creationTime": 1765480409332,
+  "mapdata": [
+    {
+      "mapid": 60,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 61,
+      "image": "1.png",
+      "markers": []
+    }
+  ]
+}

@@ -538,3 +538,12 @@ mongol:
     yaw: -178.78438
     world: world
   author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
+plot:
+  loc:
+    x: 0.0
+    y: 1.0
+    z: 0.0
+    pitch: 0.0
+    yaw: -180.0
+    world: world_plot
+  author: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
