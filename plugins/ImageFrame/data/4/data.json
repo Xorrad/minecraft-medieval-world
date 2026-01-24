@@ -1,0 +1,44 @@
+{
+  "type": "imageframe:url_static",
+  "index": 4,
+  "name": "heracles_omphale",
+  "url": "https://img.lightshot.app/GEyrUsYDSzSloBAADAK--A.png",
+  "width": 3,
+  "height": 2,
+  "ditheringType": "nearest-color",
+  "creator": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a",
+  "hasAccess": {},
+  "creationTime": 1768821739132,
+  "mapdata": [
+    {
+      "mapid": 76,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 77,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 78,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 79,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 80,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 81,
+      "image": "5.png",
+      "markers": []
+    }
+  ]
+}

@@ -104,10 +104,10 @@ world-settings:
     zombie-aggressive-towards-villager: true
     entity-tracking-range:
       display: 128
-      players: 48
+      players: 128
       animals: 48
-      monsters: 48
-      misc: 32
+      monsters: 32
+      misc: 64
       other: 64
     growth:
       torchflower-modifier: 100

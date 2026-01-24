@@ -71,7 +71,7 @@
   "imageframe.messages.markers.not_render_on_frame_warning": "Внимание: Този тип маркери не се визуализират върху рамки!",
   "imageframe.messages.markers.limit_reached": "Може да създавате само %s маркера върху една карта!",
   "imageframe.messages.preferences.keys.view_animated_maps": "Визуализиране на анимирани карти",
-  "imageframe.messages.preferences.keys.language": "Language",
+  "imageframe.messages.preferences.keys.language": "Език",
   "imageframe.messages.preferences.values.true": "Включено",
   "imageframe.messages.preferences.values.false": "Изключено",
   "imageframe.messages.preferences.values.unset": "Без стойност",

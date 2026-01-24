@@ -1,5 +1,5 @@
 {
-  "imageframe.messages.reloaded": "ImageFrame has been reloaded!",
+  "imageframe.messages.reloaded": "ImageFrame перезагружен!",
   "imageframe.messages.resync": "Выполняется повторная синхронизация! Подробности в консоли.",
   "imageframe.messages.storage_migration": "Перемещение хранилища завершено! Подробности в консоли.",
   "imageframe.messages.image_map_processing": "ImageMap обрабатывается, пожалуйста, подождите!",
