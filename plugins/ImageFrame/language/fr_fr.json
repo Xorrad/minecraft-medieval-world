@@ -71,7 +71,7 @@
   "imageframe.messages.markers.not_render_on_frame_warning": "Avertissement : ce type de marqueur ne s'affiche pas sur les cadres !",
   "imageframe.messages.markers.limit_reached": "Vous ne pouvez créer que %s marqueurs sur une carte !",
   "imageframe.messages.preferences.keys.view_animated_maps": "Voir les cartes animées",
-  "imageframe.messages.preferences.keys.language": "Language",
+  "imageframe.messages.preferences.keys.language": "",
   "imageframe.messages.preferences.values.true": "Activé",
   "imageframe.messages.preferences.values.false": "Désactivé",
   "imageframe.messages.preferences.values.unset": "Non défini",

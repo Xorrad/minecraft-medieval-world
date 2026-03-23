@@ -1,6 +1,6 @@
 {
-  "imageframe.messages.reloaded": "ImageFrame has been reloaded!",
-  "imageframe.messages.resync": "Performing resync! See console for details.",
+  "imageframe.messages.reloaded": "¡ImagenFrame ha sido recargada!",
+  "imageframe.messages.resync": "¡Realizando resincro! Consulta la consola para más detalles.",
   "imageframe.messages.storage_migration": "Performing storage migration! See console for details.",
   "imageframe.messages.image_map_processing": "ImageMap is being processed, please wait!",
   "imageframe.messages.image_map_processing_action_bar": "ImageMap %1$s is being processed%2$s",
@@ -10,7 +10,7 @@
   "imageframe.messages.image_map_deleted": "ImageMap had been deleted!",
   "imageframe.messages.image_map_renamed": "ImageMap had been renamed!",
   "imageframe.messages.image_map_toggle_paused": "Toggled ImageMap playback pause!",
-  "imageframe.messages.image_map_playback_jump_to": "Jumped to position at %s seconds!",
+  "imageframe.messages.image_map_playback_jump_to": "¡Saltado a la posición en %s segundos!",
   "imageframe.messages.image_map_player_purge": "Purged %1$s ImageMaps owned by %2$s (%3$s) - [%4$s].",
   "imageframe.messages.set_creator": "ImageMap creator of id %1$s set to %2$s (%3$s).",
   "imageframe.messages.invalid_overlay_map": "Overlay only works on Vanilla Minecraft maps and without duplicates in selection!",

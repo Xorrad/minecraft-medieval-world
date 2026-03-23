@@ -31,6 +31,11 @@ npc:
     maximum-new-pathfinder-iterations: 10000
     minecraft:
       max-fall-distance: 3
+      # Minecraft will pick a 'close-enough' location when pathfinding to a block if it can't find a direct path
+      # Disabled by default
+      disable-fallback-navigation: true
+      # The maximum number of blocks to check when pathfinding
+      maximum-search-blocks: 1024
     # The range in blocks before attacking the target
     attack-range: 3.0625
     # Whether to use the Citizens pathfinder instead of the Minecraft pathfinder
@@ -47,6 +52,26 @@ npc:
     # The default allowed maximum fall distance when pathfinding, set to -1 to use the Minecraft value
     allowed-fall-distance: -1
     default-stuck-action: none
+    citizens:
+      # Number of blocks to pathfind per tick
+      blocks-per-tick: 250
+      # Duration of time to keep chunks used in async pathfinding in memory for.
+      # Decrease this value if you expect chunks to be changed rapidly during pathfinding, or increase it if chunks rarely change during pathfinding at the expense of memory.
+      async-chunk-cache-expiry: 5s
+      # Whether to check bounding boxes when pathfinding such as between fences, inside doors, or other half-blocks
+      check-bounding-boxes: false
+      # The maximum number of blocks to check when pathfinding
+      maximum-search-blocks: 1024
+      # Whether to open doors while pathfinding (should close them as well)
+      open-doors: false
+    # Debug pathfinding by showing fake target blocks
+    debug-paths: false
+    # Default duration in the same location before the NPC considers itself stuck and failed pathfinding
+    default-stationary-duration: -1
+    # The pathfinder type.
+    # Valid options are: CITIZENS, CITIZENS_ASYNC or MINECRAFT.
+    # CITIZENS_ASYNC is a new option that is faster but requires more than one processor core and more memory.
+    pathfinder-type: MINECRAFT
   chat:
     options:
       # Whether nearby players also hear text, even if targeted at a specific player
@@ -76,6 +101,8 @@ npc:
     max-ground-speed: 0.5
     # Whether to change vehicle direction with movement instead of strafe controls
     use-boat-controls: true
+    # The maximum flying speed that controllable NPCs can reach, in Minecraft velocity units
+    max-flying-speed: 0.75
   default:
     waypoints:
       # Whether to cache /npc path by default
@@ -119,11 +146,31 @@ npc:
     # Default duration in the same location before the NPC considers itself stuck and failed pathfinding
     stationary-duration: -1
     reset-yaw-on-spawn: true
+    # Default duration of invincibility on entity spawn, Minecraft default is 20 ticks
+    spawn-invincibility-duration: 1s
+    # The default cost to create an NPC
+    npc-cost: 100.0
+    enable-scoreboard-teams: true
   hologram:
     # Default distance between hologram lines
     default-line-height: 0.4
     # How often to update hologram names (including placeholders)
     update-rate: 1s
+    # The default renderer for holograms, must be one of the following:
+    # interaction - requires 1.19+, matches nametags more closely than display
+    # display - allows for different colored backgrounds
+    # display_vehicle - mounts the display on the NPC
+    # areaeffectcloud - the safest option
+    # armorstand - the second safest option, has a hitbox clientside
+    # armorstand_vehicle - mounts the armorstand on the NPC, only useful for nameplates
+    default-renderer: display
+    default-renderer-settings:
+      seeThrough: true
+      shadowed: true
+      billboard: CENTER
+      interpolationDelay: 0
+    # Whether to always update the hologram position every tick
+    always-update-position: false
   limits:
     # Default maximum number of NPCs owned by a single player (give the citizens ignore-limits permission to skip this check)
     default-limit: 10
@@ -167,6 +214,7 @@ npc:
       on-cooldown: Please wait for {minutes} minutes and {seconds_over} seconds.
       on-global-cooldown: Please wait for {minutes} minutes and {seconds_over} seconds.
       not-enough-experience: You need at least {0} experience.
+      global-maximum-times-used: You have reached the maximum number of uses ({0}).
     # The global cooldown before a command can be used again, must be in seconds
     global-cooldown: 1s
   packets:
@@ -204,6 +252,17 @@ npc:
     enable: true
   shops:
     global-view-permission: ''
+    default-item:
+      max-repeats-on-shift-click: ''
+      result-message: ''
+      already-purchased-message: ''
+      lore: ''
+      name: ''
+      times-purchasable: ''
+      cost-message: ''
+      click-to-confirm-message: ''
+    # Whether to add default item description placeholders for all shop items by default.
+    add-default-item-description: false
 general:
   authlib:
     # Search for gameprofiles using this URL
@@ -229,6 +288,9 @@ general:
   # The resource pack path to save resource packs to
   resource-pack-path: plugins/Citizens/resourcepack
   reload-warning-enabled: true
+  # Whether to reset formatting on color change.
+  # Emulates old color code behavior.
+  reset-formatting-on-color-change: false
 advanced:
   # Whether to check the minecraft version for compatibility (do not change)
   check-minecraft-version: true
@@ -243,5 +305,7 @@ storage:
   file: saves.yml
   # Although technically Citizens can use NBT storage, it is not well tested and YAML is recommended
   type: yaml
+  # How often to save NPCs to disk
+  save-task-frequency: 1hr
 subplugins:
   folder: plugins

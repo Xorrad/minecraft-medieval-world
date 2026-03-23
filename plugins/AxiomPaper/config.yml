@@ -23,19 +23,19 @@ allow-large-payload-for-all-packets: false
 # Action to take when a user with an incompatible Minecraft version or Axiom version joins
 # Valid actions are 'kick' and 'warn'
 # 'warn' will give the player a warning and disable Axiom
-incompatible-data-version: "warn"
-unsupported-axiom-version: "warn"
+incompatible-data-version: warn
+unsupported-axiom-version: warn
 
 # Maximum packet size. Must not be less than 30000
-max-block-buffer-packet-size: 0x100000
+max-block-buffer-packet-size: 1048576
 
 # Regex for whitelisting worlds
 # The world can only be modified if the regex matches the world's name
-whitelist-world-regex: ""
+whitelist-world-regex: ''
 
 # Regex for blacklisting worlds
 # If the regex matches the world's name, the world can't be modified
-blacklist-world-regex: ""
+blacklist-world-regex: ''
 
 # Block buffer rate-limit (in chunk sections per second), 0 = default limit
 block-buffer-rate-limit: 0
@@ -68,3 +68,7 @@ infinite-reach-limit: 256
 
 # Whether to log Axiom changes with CoreProtect (if CoreProtect is installed)
 log-core-protect-changes: true
+
+# Overrides based on a permission/rank
+# To apply, give the player the axiomlimits.example permission
+limits: {}

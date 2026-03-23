@@ -1,0 +1,104 @@
+# Played when the player is missing permissions.
+noPermission:
+  sound: "block.anvil.land"
+  source: "MASTER"
+  volume: 0.3
+  pitch: 1
+
+# General success sound
+success:
+  sound: "entity.player.levelup"
+  source: "MASTER"
+  volume: 1
+  pitch: 2
+
+# General fail sound (Example: Invalid command arguments)
+failure:
+  sound: "block.anvil.land"
+  source: "MASTER"
+  volume: 0.3
+  pitch: 0.5
+
+head:
+  take:
+    sound: "entity.player.levelup"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+
+# Control Sounds
+control:
+  # For BACK button
+  back:
+    sound: "block.lever.click"
+    source: "MASTER"
+    volume: 0.5
+    pitch: 1
+  # For INFO(middle) button
+  info:
+    sound: "block.lever.click"
+    source: "MASTER"
+    volume: 0.5
+    pitch: 1
+  # For NEXT button
+  next:
+    sound: "block.lever.click"
+    source: "MASTER"
+    volume: 0.5
+    pitch: 1
+
+favorite:
+  # Played when a player favorites a head
+  add:
+    sound: "entity.arrow.hit.player"
+    source: "MASTER"
+    volume: 1
+    pitch: 1
+  # Played when a player un-favorites a head
+  remove:
+    sound: "entity.arrow.hit.player"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+
+menu:
+  # disabled
+  disabled:
+    sound: "block.anvil.land"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+  open:
+    sound: "entity.bat.takeoff"
+    source: "MASTER"
+    volume: 1
+    pitch: 1
+  none:
+    sound: "entity.villager.no"
+    source: "MASTER"
+    volume: 1
+    pitch: 1
+
+purchase:
+  completed:
+    sound: "entity.player.levelup"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+  failed:
+    sound: "block.anvil.land"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+  canceled:
+    sound: "block.wooden_button.click_off"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
+
+input:
+  wait:
+    sound: "block.note_block.pling"
+    source: "MASTER"
+    volume: 1
+    pitch: 2
