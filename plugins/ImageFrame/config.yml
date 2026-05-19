@@ -115,4 +115,4 @@ Hooks:
     # Enable this if your players below 1.13 is having network issues
     DisableSmoothAnimationForLegacyPlayers: false
 # Enable update notifications for admins
-Updater: true
+Updater: false

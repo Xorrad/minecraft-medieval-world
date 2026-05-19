@@ -79,7 +79,7 @@ files:
   allow-symbolic-links: false
 
 history:
-  size: 15
+  size: 64
   expiration: 10
 
 calculation:

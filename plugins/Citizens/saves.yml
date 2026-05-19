@@ -1,5 +1,5 @@
 # Citizens NPC Storage
-last-created-npc-id: 1546
+last-created-npc-id: 1547
 npc:
   '176':
     metadata:
@@ -1465,7 +1465,7 @@ npc:
           pitch: 0.0
           worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       mounttrait:
-        mountedon: 49d07127-c895-4297-9698-40fb4888afe6
+        mountedon: d63cd728-27bc-4182-89ad-2e44a02b400c
       lookclose:
         randomPitchRange:
         - 0.0
@@ -1900,7 +1900,7 @@ npc:
           pitch: 0.0
           worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       mounttrait:
-        mountedon: 7849b2a8-783a-444a-a599-3a05e6b83ca5
+        mountedon: 60f09253-c460-4632-95c7-f9a6675897cd
       scoreboardtrait:
         tags:
         - CITIZENS_NPC
@@ -2627,7 +2627,7 @@ npc:
         partner: -1
         children: ''
       mounttrait:
-        mountedon: 4d13f4a9-0366-49ef-b1b1-b23dcbb606b5
+        mountedon: e473bfe6-5d92-485a-abc8-1fda16c9b6a4
       sittrait:
         sittingAt:
           x: 57.6566
@@ -5790,7 +5790,7 @@ npc:
       location:
         bodyYaw: 5.3371177
         x: -209.5
-        y: 63.208
+        y: 63.6
         z: 152.5
         yaw: 5.3371
         pitch: 3.4902
@@ -5802,7 +5802,7 @@ npc:
       owner: {
         }
       mounttrait:
-        mountedon: ee562369-861f-4d7f-9b57-e2824672fbc4
+        mountedon: fc6ee473-6179-4a6a-bc16-c977a479450c
       sittrait:
         sittingAt:
           x: -209.5
@@ -5989,7 +5989,7 @@ npc:
       faithtrait:
         id: ''
       mounttrait:
-        mountedon: 370ef1fc-75c2-4388-8582-e4050ce48fc3
+        mountedon: 52ff64b1-9dac-4f16-8455-268e0590e7cb
       scoreboardtrait:
         tags:
         - CITIZENS_NPC
@@ -7169,7 +7169,7 @@ npc:
       faithtrait:
         id: ''
       mounttrait:
-        mountedon: a9607e5d-ab9e-42b0-9560-84b95b3fd75f
+        mountedon: b5bb6c4d-f0f8-4f46-b7d3-961a00494ea0
       scoreboardtrait:
         tags:
         - CITIZENS_NPC
@@ -7715,7 +7715,7 @@ npc:
       owner: {
         }
       mounttrait:
-        mountedon: 52251af5-73af-4abe-b4b0-03cf2a867b3d
+        mountedon: 282acaab-b198-4eaa-9a27-2d240e74bc2f
       sittrait:
         sittingAt:
           x: 41.5
@@ -10258,11 +10258,11 @@ npc:
               yaw: 0.0
         provider: linear
       location:
-        bodyYaw: 180.00131
-        x: -434.5
+        bodyYaw: 180.03763
+        x: -434.5005
         y: 79.0
-        z: -626.6421
-        yaw: -179.9987
+        z: -622.7924
+        yaw: -179.9624
         pitch: 0.0
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -13565,49 +13565,49 @@ npc:
             '24':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -281.0
+                x: 210.0
+                y: 64.0
+                z: -310.0
                 pitch: 0.0
                 yaw: 0.0
             '25':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 182.0
-                y: 68.0
-                z: -281.0
+                x: 209.0
+                y: 64.0
+                z: -304.0
                 pitch: 0.0
                 yaw: 0.0
             '10':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -285.0
+                x: 176.0
+                y: 69.0
+                z: -287.0
                 pitch: 0.0
                 yaw: 0.0
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -278.0
+                x: 176.0
+                y: 69.0
+                z: -292.0
                 pitch: 0.0
                 yaw: 0.0
             '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 197.0
-                y: 64.0
-                z: -281.0
+                x: 175.0
+                y: 69.0
+                z: -298.0
                 pitch: 0.0
                 yaw: 0.0
             '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 191.0
-                y: 65.0
-                z: -282.0
+                x: 182.0
+                y: 68.0
+                z: -300.0
                 pitch: 0.0
                 yaw: 0.0
             '14':
@@ -13629,33 +13629,33 @@ npc:
             '16':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 210.0
-                y: 64.0
-                z: -310.0
+                x: 185.0
+                y: 68.0
+                z: -308.0
                 pitch: 0.0
                 yaw: 0.0
             '17':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 209.0
-                y: 64.0
-                z: -304.0
+                x: 185.0
+                y: 68.0
+                z: -312.0
                 pitch: 0.0
                 yaw: 0.0
             '18':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -287.0
+                x: 186.0
+                y: 68.0
+                z: -315.0
                 pitch: 0.0
                 yaw: 0.0
             '19':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -292.0
+                x: 190.0
+                y: 67.0
+                z: -315.0
                 pitch: 0.0
                 yaw: 0.0
             '0':
@@ -13677,49 +13677,49 @@ npc:
             '2':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 195.0
-                y: 65.0
-                z: -316.0
+                x: 204.0
+                y: 64.0
+                z: -285.0
                 pitch: 0.0
                 yaw: 0.0
             '3':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 199.0
+                x: 203.0
                 y: 64.0
-                z: -317.0
+                z: -278.0
                 pitch: 0.0
                 yaw: 0.0
             '4':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 185.0
-                y: 68.0
-                z: -308.0
+                x: 197.0
+                y: 64.0
+                z: -281.0
                 pitch: 0.0
                 yaw: 0.0
             '5':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 185.0
-                y: 68.0
-                z: -312.0
+                x: 191.0
+                y: 65.0
+                z: -282.0
                 pitch: 0.0
                 yaw: 0.0
             '6':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 186.0
-                y: 68.0
-                z: -315.0
+                x: 188.0
+                y: 66.0
+                z: -281.0
                 pitch: 0.0
                 yaw: 0.0
             '7':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 190.0
-                y: 67.0
-                z: -315.0
+                x: 182.0
+                y: 68.0
+                z: -281.0
                 pitch: 0.0
                 yaw: 0.0
             '8':
@@ -13741,17 +13741,17 @@ npc:
             '20':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 175.0
-                y: 69.0
-                z: -298.0
+                x: 195.0
+                y: 65.0
+                z: -316.0
                 pitch: 0.0
                 yaw: 0.0
             '21':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 182.0
-                y: 68.0
-                z: -300.0
+                x: 199.0
+                y: 64.0
+                z: -317.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -13774,11 +13774,11 @@ npc:
     uuid: 804deb89-2de5-44db-8e35-19522c7858e6
     traits:
       location:
-        bodyYaw: 269.73395
-        x: 191.7923
-        y: 66.7522
-        z: -298.4967
-        yaw: -90.2661
+        bodyYaw: 270.00146
+        x: 198.424
+        y: 64.0
+        z: -300.5
+        yaw: -89.9985
         pitch: 7.514
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -13788,108 +13788,12 @@ npc:
             '22':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 187.0
-                y: 66.0
-                z: -296.0
-                pitch: 0.0
-                yaw: 0.0
-            '23':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 189.0
-                y: 66.0
-                z: -299.0
-                pitch: 0.0
-                yaw: 0.0
-            '24':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 186.0
-                y: 67.0
-                z: -303.0
-                pitch: 0.0
-                yaw: 0.0
-            '25':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 185.0
-                y: 68.0
-                z: -309.0
-                pitch: 0.0
-                yaw: 0.0
-            '26':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 185.0
-                y: 68.0
-                z: -314.0
-                pitch: 0.0
-                yaw: 0.0
-            '27':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 190.0
-                y: 67.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '28':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 194.0
-                y: 66.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '29':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 198.0
-                y: 64.0
-                z: -317.0
-                pitch: 0.0
-                yaw: 0.0
-            '10':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 202.0
-                y: 64.0
-                z: -317.0
-                pitch: 0.0
-                yaw: 0.0
-            '11':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 206.0
-                y: 64.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -284.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 177.0
-                y: 69.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 180.0
                 y: 68.0
                 z: -281.0
                 pitch: 0.0
                 yaw: 0.0
-            '15':
+            '23':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 185.0
@@ -13897,87 +13801,7 @@ npc:
                 z: -281.0
                 pitch: 0.0
                 yaw: 0.0
-            '16':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 189.0
-                y: 66.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '17':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 192.0
-                y: 65.0
-                z: -282.0
-                pitch: 0.0
-                yaw: 0.0
-            '18':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 191.0
-                y: 65.0
-                z: -285.0
-                pitch: 0.0
-                yaw: 0.0
-            '19':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 192.0
-                y: 65.0
-                z: -288.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -289.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -293.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 209.0
-                y: 64.0
-                z: -314.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 210.0
-                y: 64.0
-                z: -311.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 202.0
-                y: 64.0
-                z: -298.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 197.0
-                y: 64.0
-                z: -299.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
+            '24':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 193.0
@@ -13985,7 +13809,7 @@ npc:
                 z: -300.0
                 pitch: 0.0
                 yaw: 0.0
-            '7':
+            '25':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 188.0
@@ -13993,23 +13817,23 @@ npc:
                 z: -300.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '26':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 182.0
-                y: 68.0
-                z: -300.0
+                x: 191.0
+                y: 65.0
+                z: -285.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '27':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -298.0
+                x: 192.0
+                y: 65.0
+                z: -288.0
                 pitch: 0.0
                 yaw: 0.0
-            '20':
+            '28':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 176.0
@@ -14017,12 +13841,188 @@ npc:
                 z: -294.0
                 pitch: 0.0
                 yaw: 0.0
-            '21':
+            '29':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 176.0
                 y: 69.0
                 z: -289.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 187.0
+                y: 66.0
+                z: -296.0
+                pitch: 0.0
+                yaw: 0.0
+            '11':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 189.0
+                y: 66.0
+                z: -299.0
+                pitch: 0.0
+                yaw: 0.0
+            '12':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 202.0
+                y: 64.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '13':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 197.0
+                y: 64.0
+                z: -299.0
+                pitch: 0.0
+                yaw: 0.0
+            '14':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 185.0
+                y: 68.0
+                z: -314.0
+                pitch: 0.0
+                yaw: 0.0
+            '15':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 190.0
+                y: 67.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '16':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 182.0
+                y: 68.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '17':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 176.0
+                y: 69.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '18':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 202.0
+                y: 64.0
+                z: -317.0
+                pitch: 0.0
+                yaw: 0.0
+            '19':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 206.0
+                y: 64.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 176.0
+                y: 69.0
+                z: -284.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 177.0
+                y: 69.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 186.0
+                y: 67.0
+                z: -303.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 185.0
+                y: 68.0
+                z: -309.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 189.0
+                y: 66.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 192.0
+                y: 65.0
+                z: -282.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 194.0
+                y: 66.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 198.0
+                y: 64.0
+                z: -317.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -289.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -293.0
+                pitch: 0.0
+                yaw: 0.0
+            '20':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 209.0
+                y: 64.0
+                z: -314.0
+                pitch: 0.0
+                yaw: 0.0
+            '21':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 210.0
+                y: 64.0
+                z: -311.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -14088,188 +14088,12 @@ npc:
             '22':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 172.0
-                y: 70.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '23':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -314.0
-                pitch: 0.0
-                yaw: 0.0
-            '24':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -310.0
-                pitch: 0.0
-                yaw: 0.0
-            '10':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 196.0
-                y: 64.0
-                z: -320.0
-                pitch: 0.0
-                yaw: 0.0
-            '11':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 65.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 205.0
-                y: 64.0
-                z: -328.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 199.0
-                y: 64.0
-                z: -327.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 181.0
-                y: 68.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '15':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '16':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 177.0
-                y: 69.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '17':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 173.0
-                y: 70.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '18':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 189.0
-                y: 67.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '19':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 185.0
-                y: 68.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 182.0
-                y: 69.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 195.0
-                y: 65.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 66.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -299.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 209.0
-                y: 64.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -305.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -302.0
-                pitch: 0.0
-                yaw: 0.0
-            '7':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 199.0
-                y: 64.0
-                z: -299.0
-                pitch: 0.0
-                yaw: 0.0
-            '8':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 205.0
-                y: 64.0
-                z: -302.0
-                pitch: 0.0
-                yaw: 0.0
-            '9':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 196.0
                 y: 64.0
                 z: -324.0
                 pitch: 0.0
                 yaw: 0.0
-            '20':
+            '23':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 207.0
@@ -14277,12 +14101,188 @@ npc:
                 z: -320.0
                 pitch: 0.0
                 yaw: 0.0
-            '21':
+            '24':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 208.0
                 y: 64.0
                 z: -325.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 173.0
+                y: 70.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '11':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 189.0
+                y: 67.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '12':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 185.0
+                y: 68.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '13':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 182.0
+                y: 69.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '14':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 195.0
+                y: 65.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '15':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 66.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '16':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 176.0
+                y: 69.0
+                z: -299.0
+                pitch: 0.0
+                yaw: 0.0
+            '17':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 209.0
+                y: 64.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '18':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -305.0
+                pitch: 0.0
+                yaw: 0.0
+            '19':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -302.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 172.0
+                y: 70.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -314.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -310.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 196.0
+                y: 64.0
+                z: -320.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 65.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 205.0
+                y: 64.0
+                z: -328.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 199.0
+                y: 64.0
+                z: -327.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 181.0
+                y: 68.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 177.0
+                y: 69.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '20':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 199.0
+                y: 64.0
+                z: -299.0
+                pitch: 0.0
+                yaw: 0.0
+            '21':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 205.0
+                y: 64.0
+                z: -302.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -14305,11 +14305,11 @@ npc:
     uuid: ce226fca-dea4-4241-a44a-140c1bffcc51
     traits:
       location:
-        bodyYaw: 135.41519
-        x: 207.7791
-        y: 64.7532
-        z: -312.2142
-        yaw: 135.4152
+        bodyYaw: 0.20236969
+        x: 187.5039
+        y: 66.0
+        z: -295.6048
+        yaw: 0.2024
         pitch: 5.9764
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -14319,140 +14319,12 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 187.0
-                y: 66.0
-                z: -296.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 187.0
-                y: 66.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 191.0
-                y: 65.0
-                z: -288.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 192.0
-                y: 65.0
-                z: -284.0
-                pitch: 0.0
-                yaw: 0.0
-            '15':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 65.0
-                z: -282.0
-                pitch: 0.0
-                yaw: 0.0
-            '16':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 195.0
-                y: 64.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '17':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 199.0
-                y: 64.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '18':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -283.0
-                pitch: 0.0
-                yaw: 0.0
-            '19':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -288.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -293.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -297.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 210.0
-                y: 64.0
-                z: -313.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -317.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 196.0
-                y: 64.0
-                z: -317.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 66.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 189.0
-                y: 67.0
-                z: -315.0
-                pitch: 0.0
-                yaw: 0.0
-            '7':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 186.0
                 y: 68.0
                 z: -315.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 185.0
@@ -14460,7 +14332,7 @@ npc:
                 z: -312.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 185.0
@@ -14468,12 +14340,140 @@ npc:
                 z: -307.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '14':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 186.0
                 y: 67.0
                 z: -301.0
+                pitch: 0.0
+                yaw: 0.0
+            '15':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 187.0
+                y: 66.0
+                z: -296.0
+                pitch: 0.0
+                yaw: 0.0
+            '16':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 187.0
+                y: 66.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '17':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 191.0
+                y: 65.0
+                z: -288.0
+                pitch: 0.0
+                yaw: 0.0
+            '18':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 192.0
+                y: 65.0
+                z: -284.0
+                pitch: 0.0
+                yaw: 0.0
+            '19':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 65.0
+                z: -282.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 195.0
+                y: 64.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 199.0
+                y: 64.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 203.0
+                y: 64.0
+                z: -283.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 204.0
+                y: 64.0
+                z: -288.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 204.0
+                y: 64.0
+                z: -293.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 203.0
+                y: 64.0
+                z: -297.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 210.0
+                y: 64.0
+                z: -313.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 203.0
+                y: 64.0
+                z: -317.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 196.0
+                y: 64.0
+                z: -317.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 66.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 189.0
+                y: 67.0
+                z: -315.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -14496,8 +14496,8 @@ npc:
     uuid: 776743b8-476c-4e7d-9143-328cc3a470ac
     traits:
       location:
-        bodyYaw: 90.65405
-        x: 231.4037
+        bodyYaw: 90.65411
+        x: 231.4039
         y: 64.0
         z: -267.4897
         yaw: 90.6541
@@ -14510,52 +14510,12 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 251.0
-                y: 66.0
-                z: -267.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 245.0
-                y: 66.0
-                z: -270.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 238.0
-                y: 65.0
-                z: -271.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 235.0
-                y: 64.0
-                z: -269.0
-                pitch: 0.0
-                yaw: 0.0
-            '15':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 229.0
-                y: 64.0
-                z: -268.0
-                pitch: 0.0
-                yaw: 0.0
-            '16':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 223.0
                 y: 64.0
                 z: -268.0
                 pitch: 0.0
                 yaw: 0.0
-            '17':
+            '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 222.0
@@ -14563,7 +14523,7 @@ npc:
                 z: -273.0
                 pitch: 0.0
                 yaw: 0.0
-            '18':
+            '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 203.0
@@ -14571,7 +14531,7 @@ npc:
                 z: -292.0
                 pitch: 0.0
                 yaw: 0.0
-            '0':
+            '14':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 208.0
@@ -14579,7 +14539,7 @@ npc:
                 z: -304.0
                 pitch: 0.0
                 yaw: 0.0
-            '1':
+            '15':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 203.0
@@ -14587,7 +14547,7 @@ npc:
                 z: -292.0
                 pitch: 0.0
                 yaw: 0.0
-            '2':
+            '16':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 205.0
@@ -14595,7 +14555,7 @@ npc:
                 z: -278.0
                 pitch: 0.0
                 yaw: 0.0
-            '3':
+            '17':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 216.0
@@ -14603,7 +14563,7 @@ npc:
                 z: -277.0
                 pitch: 0.0
                 yaw: 0.0
-            '4':
+            '18':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 225.0
@@ -14611,7 +14571,7 @@ npc:
                 z: -279.0
                 pitch: 0.0
                 yaw: 0.0
-            '5':
+            '0':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 233.0
@@ -14619,7 +14579,7 @@ npc:
                 z: -285.0
                 pitch: 0.0
                 yaw: 0.0
-            '6':
+            '1':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 247.0
@@ -14627,7 +14587,7 @@ npc:
                 z: -285.0
                 pitch: 0.0
                 yaw: 0.0
-            '7':
+            '2':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 257.0
@@ -14635,7 +14595,7 @@ npc:
                 z: -285.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '3':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 265.0
@@ -14643,7 +14603,7 @@ npc:
                 z: -280.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '4':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 268.0
@@ -14651,12 +14611,52 @@ npc:
                 z: -273.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '5':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 260.0
                 y: 66.0
                 z: -267.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 251.0
+                y: 66.0
+                z: -267.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 245.0
+                y: 66.0
+                z: -270.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 238.0
+                y: 65.0
+                z: -271.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 235.0
+                y: 64.0
+                z: -269.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 229.0
+                y: 64.0
+                z: -268.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -14710,60 +14710,20 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 194.0
-                y: 64.0
-                z: -282.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 65.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 183.0
-                y: 68.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '15':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 179.0
-                y: 68.0
-                z: -281.0
-                pitch: 0.0
-                yaw: 0.0
-            '16':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 175.0
                 y: 69.0
                 z: -281.0
                 pitch: 0.0
                 yaw: 0.0
-            '17':
+            '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -285.0
+                x: 204.0
+                y: 64.0
+                z: -282.0
                 pitch: 0.0
                 yaw: 0.0
-            '18':
+            '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 176.0
@@ -14771,95 +14731,7 @@ npc:
                 z: -289.0
                 pitch: 0.0
                 yaw: 0.0
-            '19':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 176.0
-                y: 69.0
-                z: -294.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 178.0
-                y: 69.0
-                z: -298.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 191.0
-                y: 65.0
-                z: -282.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 199.0
-                y: 64.0
-                z: -298.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 210.0
-                y: 64.0
-                z: -310.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -297.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 203.0
-                y: 64.0
-                z: -293.0
-                pitch: 0.0
-                yaw: 0.0
-            '7':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -287.0
-                pitch: 0.0
-                yaw: 0.0
-            '8':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -282.0
-                pitch: 0.0
-                yaw: 0.0
-            '9':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 201.0
-                y: 64.0
-                z: -280.0
-                pitch: 0.0
-                yaw: 0.0
-            '20':
+            '14':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 197.0
@@ -14867,12 +14739,140 @@ npc:
                 z: -281.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '15':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 178.0
+                y: 69.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '16':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 191.0
+                y: 65.0
+                z: -282.0
+                pitch: 0.0
+                yaw: 0.0
+            '17':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '18':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 199.0
+                y: 64.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '19':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 210.0
+                y: 64.0
+                z: -310.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 203.0
+                y: 64.0
+                z: -297.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 176.0
+                y: 69.0
+                z: -285.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 204.0
+                y: 64.0
+                z: -287.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 176.0
+                y: 69.0
+                z: -294.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 201.0
+                y: 64.0
+                z: -280.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 182.0
                 y: 68.0
                 z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 194.0
+                y: 64.0
+                z: -282.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 65.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 183.0
+                y: 68.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '20':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 179.0
+                y: 68.0
+                z: -281.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 203.0
+                y: 64.0
+                z: -293.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -14917,68 +14917,12 @@ npc:
             '22':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -314.0
-                pitch: 0.0
-                yaw: 0.0
-            '23':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 181.0
-                y: 69.0
-                z: -325.0
-                pitch: 0.0
-                yaw: 0.0
-            '24':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 209.0
-                y: 64.0
-                z: -314.0
-                pitch: 0.0
-                yaw: 0.0
-            '25':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 177.0
-                y: 70.0
-                z: -325.0
-                pitch: 0.0
-                yaw: 0.0
-            '26':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 174.0
-                y: 70.0
-                z: -319.0
-                pitch: 0.0
-                yaw: 0.0
-            '27':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 174.0
-                y: 70.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '28':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 177.0
-                y: 69.0
-                z: -316.0
-                pitch: 0.0
-                yaw: 0.0
-            '29':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 180.0
                 y: 69.0
                 z: -316.0
                 pitch: 0.0
                 yaw: 0.0
-            '30':
+            '23':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 182.0
@@ -14986,12 +14930,68 @@ npc:
                 z: -315.0
                 pitch: 0.0
                 yaw: 0.0
-            '31':
+            '24':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 185.0
                 y: 68.0
                 z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '25':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 190.0
+                y: 67.0
+                z: -314.0
+                pitch: 0.0
+                yaw: 0.0
+            '26':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 193.0
+                y: 66.0
+                z: -315.0
+                pitch: 0.0
+                yaw: 0.0
+            '27':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 198.0
+                y: 64.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '28':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 201.0
+                y: 64.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '29':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 205.0
+                y: 64.0
+                z: -316.0
+                pitch: 0.0
+                yaw: 0.0
+            '30':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -314.0
+                pitch: 0.0
+                yaw: 0.0
+            '31':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 181.0
+                y: 69.0
+                z: -325.0
                 pitch: 0.0
                 yaw: 0.0
             '10':
@@ -15005,33 +15005,33 @@ npc:
             '32':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 190.0
-                y: 67.0
+                x: 209.0
+                y: 64.0
                 z: -314.0
                 pitch: 0.0
                 yaw: 0.0
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 188.0
-                y: 66.0
-                z: -300.0
+                x: 172.0
+                y: 70.0
+                z: -317.0
                 pitch: 0.0
                 yaw: 0.0
             '33':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 201.0
-                y: 64.0
+                x: 174.0
+                y: 70.0
                 z: -316.0
                 pitch: 0.0
                 yaw: 0.0
             '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 193.0
-                y: 66.0
-                z: -315.0
+                x: 177.0
+                y: 70.0
+                z: -325.0
                 pitch: 0.0
                 yaw: 0.0
             '34':
@@ -15048,17 +15048,17 @@ npc:
             '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 171.0
-                y: 70.0
-                z: -302.0
+                x: 207.0
+                y: 64.0
+                z: -303.0
                 pitch: 0.0
                 yaw: 0.0
             '14':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 181.0
-                y: 68.0
-                z: -300.0
+                x: 179.0
+                y: 70.0
+                z: -325.0
                 pitch: 0.0
                 yaw: 0.0
             '15':
@@ -15072,17 +15072,17 @@ npc:
             '16':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 205.0
-                y: 64.0
+                x: 177.0
+                y: 69.0
                 z: -316.0
                 pitch: 0.0
                 yaw: 0.0
             '17':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 198.0
-                y: 64.0
-                z: -316.0
+                x: 174.0
+                y: 70.0
+                z: -319.0
                 pitch: 0.0
                 yaw: 0.0
             '18':
@@ -15096,12 +15096,76 @@ npc:
             '19':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 204.0
+                y: 64.0
+                z: -301.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 201.0
+                y: 64.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 197.0
+                y: 64.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 191.0
+                y: 65.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 188.0
+                y: 66.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 181.0
+                y: 68.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 177.0
+                y: 69.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 171.0
+                y: 70.0
+                z: -302.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 171.0
                 y: 70.0
                 z: -311.0
                 pitch: 0.0
                 yaw: 0.0
-            '0':
+            '8':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 173.0
@@ -15109,7 +15173,7 @@ npc:
                 z: -321.0
                 pitch: 0.0
                 yaw: 0.0
-            '1':
+            '9':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 175.0
@@ -15117,23 +15181,7 @@ npc:
                 z: -325.0
                 pitch: 0.0
                 yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 172.0
-                y: 70.0
-                z: -317.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 179.0
-                y: 70.0
-                z: -325.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
+            '20':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 207.0
@@ -15144,54 +15192,6 @@ npc:
               triggers:
               - delay: 200
                 type: delay
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 207.0
-                y: 64.0
-                z: -303.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 204.0
-                y: 64.0
-                z: -301.0
-                pitch: 0.0
-                yaw: 0.0
-            '7':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 201.0
-                y: 64.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '8':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 197.0
-                y: 64.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '9':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 191.0
-                y: 65.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '20':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 177.0
-                y: 69.0
-                z: -298.0
-                pitch: 0.0
-                yaw: 0.0
             '21':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
@@ -15219,11 +15219,11 @@ npc:
     uuid: 60eef2ec-126d-46c3-831e-c78f4eca1794
     traits:
       location:
-        bodyYaw: 20.540337
-        x: 134.4881
+        bodyYaw: 89.50418
+        x: 142.8058
         y: 67.0
-        z: -297.7943
-        yaw: 20.5403
+        z: -299.5107
+        yaw: 89.5042
         pitch: 0.9849
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -15278,11 +15278,11 @@ npc:
     uuid: d156de81-a398-42ef-bb6e-165afeb68cb4
     traits:
       location:
-        bodyYaw: 83.722305
-        x: 141.117
+        bodyYaw: -81.76468
+        x: 153.1625
         y: 67.0
-        z: -300.5679
-        yaw: 83.7223
+        z: -292.6045
+        yaw: -81.7647
         pitch: 0.8091
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -15388,11 +15388,11 @@ npc:
     uuid: 63a635ed-a01e-47e6-9f22-7ee6c74b1eff
     traits:
       location:
-        bodyYaw: 180.51276
-        x: 154.4935
+        bodyYaw: -90.31833
+        x: 138.139
         y: 67.0
-        z: -296.7738
-        yaw: -179.4872
+        z: -291.4911
+        yaw: -90.3183
         pitch: -3.6278
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -15402,68 +15402,12 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 139.0
-                y: 67.0
-                z: -301.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 135.0
-                y: 66.0
-                z: -301.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 132.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 129.0
-                y: 67.0
-                z: -296.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 131.0
-                y: 67.0
-                z: -292.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 136.0
-                y: 67.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 143.0
-                y: 67.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 148.0
                 y: 67.0
                 z: -291.0
                 pitch: 0.0
                 yaw: 0.0
-            '6':
+            '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 152.0
@@ -15471,7 +15415,7 @@ npc:
                 z: -292.0
                 pitch: 0.0
                 yaw: 0.0
-            '7':
+            '0':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 155.0
@@ -15479,7 +15423,7 @@ npc:
                 z: -295.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '1':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 154.0
@@ -15487,7 +15431,7 @@ npc:
                 z: -299.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '2':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 150.0
@@ -15495,12 +15439,68 @@ npc:
                 z: -301.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '3':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 143.0
                 y: 67.0
                 z: -301.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 139.0
+                y: 67.0
+                z: -301.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 135.0
+                y: 66.0
+                z: -301.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 132.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 129.0
+                y: 67.0
+                z: -296.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 131.0
+                y: 67.0
+                z: -292.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 136.0
+                y: 67.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 143.0
+                y: 67.0
+                z: -291.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -15523,11 +15523,11 @@ npc:
     uuid: 6fee616c-59a1-4fc0-aab7-2878e8dee3d5
     traits:
       location:
-        bodyYaw: 8.225159
-        x: 131.5652
+        bodyYaw: 103.16244
+        x: 133.3552
         y: 67.0
-        z: -294.5268
-        yaw: 8.2252
+        z: -297.3
+        yaw: 103.1624
         pitch: 0.5895
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
@@ -15537,100 +15537,12 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 151.0
-                y: 67.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 154.0
-                y: 67.0
-                z: -293.0
-                pitch: 0.0
-                yaw: 0.0
-            '13':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 155.0
-                y: 67.0
-                z: -297.0
-                pitch: 0.0
-                yaw: 0.0
-            '14':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 152.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 148.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 144.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 139.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 134.0
-                y: 66.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 132.0
-                y: 67.0
-                z: -298.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 131.0
-                y: 67.0
-                z: -295.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 133.0
-                y: 67.0
-                z: -292.0
-                pitch: 0.0
-                yaw: 0.0
-            '7':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 136.0
                 y: 67.0
                 z: -292.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '12':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 140.0
@@ -15638,7 +15550,7 @@ npc:
                 z: -291.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '13':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 144.0
@@ -15646,12 +15558,100 @@ npc:
                 z: -291.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '14':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 147.0
                 y: 67.0
                 z: -290.0
+                pitch: 0.0
+                yaw: 0.0
+            '0':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 151.0
+                y: 67.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '1':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 154.0
+                y: 67.0
+                z: -293.0
+                pitch: 0.0
+                yaw: 0.0
+            '2':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 155.0
+                y: 67.0
+                z: -297.0
+                pitch: 0.0
+                yaw: 0.0
+            '3':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 152.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 148.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 144.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 139.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 134.0
+                y: 66.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 132.0
+                y: 67.0
+                z: -298.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 131.0
+                y: 67.0
+                z: -295.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 133.0
+                y: 67.0
+                z: -292.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -15747,7 +15747,7 @@ npc:
       controllable: {
         }
       mounttrait:
-        mountedon: 2bbeb9fe-134f-46b5-8fc4-f8ec71f62548
+        mountedon: d2677e3a-31ee-454f-8585-7559f9aecd10
       sittrait:
         sittingAt:
           x: 103.5
@@ -18945,9 +18945,9 @@ npc:
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       type: PLAYER
       skintrait:
-        signature: B1QUuLVkkhV7b5wru5zu4q56lK+B1Se28bh6uBY5jq2vvbL+GZGz5+i429BhNioUOhzsdzPM7uMpB52MmET7cJPx+ijqqJg7jCd1ZFxJ1GMEL7tLZps95nSMODAdOMr4U9vfQN5kIRhX0B6ATQWYcFYtraXatg30/ZbBz2DlmgK7zfOFOGlW7OKRDkTJuD9+KchY34JOyy4Er5WorI9/wt59hPLfsv4ksdPf0GkYxQpwjL2FTpyKA8FDVr8HIK4E3pV8zPTknIAkFoc6P/0MIL4uBENoRJiIjPxc3Iz6COi8FANPEhUR36jVwKFNm8wjAAcWDk626lUvZQhUbMI2yDRBwsyhH/eL8B9czZAfych4OTT801btABhmT1C4aHjJRR24r7RtXHz/oIKQS3XpaLJhQmLaKSeIXKIVV082EEbFmZls1EVtWSTKcTJ70OorqfWBmVb+QaT0W3d+ebt35H9MMUEpNXJR0Rr3kOTh++wd8pQKvim+KkV6Kj3zN3VNZajvoiaPt450hZg4XLRwwMUgmx+KLts5egGJdIszBvYbroTH1VEVm6le/jjX/g+a8ZZMjqcnal6GqkAtjmkjduh1L+zApAV3G3gZnwIC06lG1eKVHcpPKWlTT7Z6vLltIoQJteiWfkK144jWNvpRaoxskI0VrAYIip+Fdecwo3E=
+        signature: URocwKdSpa72Qi0sN2nKCVamOhgs/YLXOLK4DPdzDHu3uvHAYC0Dy6sjo+JaNkbvCtdAIFVj002Mx2i/Hj702WQ5hhzHScUfyj7fdzcfyFGk5kHZcXkLir2+kXxYsRdcC7YAKkjCuQ0N+LgHInPa8TKCfJXq3aCbX12YD022Ro5fKbF4V+FIX25uRrnxih7awfxMAOhCr8/35VCUkInVqhHXN3RsIH5Q915xETQfFgSWeXpkyIlMf8X/ewVflsAYkkAOWM3Ol1ZWdgFpvCiJuiXrdUYT0725NWKtPqQRzbaJhNfVslPAvrgWaN1CiQ1x7JcV/eRcRKYJn47D8m3yKqFapKkaKc4Xq3KKoeM42H6cJnlbdIwkwL+OslDqZHrl52nTthZXZe3sRjk4NO0CyT4xWkL61L5JdI+XNvN6gAM3WARZK+kd2H2b0/nxdL40Vo0q/ZfQJgtUPkbS+ag3FonsN+lXh67G/CniEBwMhbNPfzH00h0nEwD9CvL/6uIQ6ihOHvn0fef53rfpXAx9JSmcKy1vq65kDjyMMPftKPow3CV+fqD3Fs+Zqbh2dy2F1phvgHciWsvXWVnYi4D69u3N5dYLZF/zjbko5KNjkmS389ZJ0YEYVBsG9TM8fxLndtyAGI9uj0nEetlBqf86a1oCAbsMqJKrXdOvXUOOl8g=
         skinName: Meister_Eckhart
-        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc3NDEwMDIzOTkxNiwKICAicHJvZmlsZUlkIiA6ICI1Yjc3Mzk0NGEwYTg0MjAxOTM0NzNlYjdmZGRlNGIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWlzdGVyX0Vja2hhcnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAzNGZiM2JhNzZiZjY1ODQwN2FlMTQ5YjcyYzcxNDc4Zjk5NGI4NTZmMDg2Y2U1NmI1NDNkMGE0ZWI0ODg1NSIKICAgIH0KICB9Cn0=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc3OTIwMTA4OTA3OCwKICAicHJvZmlsZUlkIiA6ICI1Yjc3Mzk0NGEwYTg0MjAxOTM0NzNlYjdmZGRlNGIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWlzdGVyX0Vja2hhcnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAzNGZiM2JhNzZiZjY1ODQwN2FlMTQ5YjcyYzcxNDc4Zjk5NGI4NTZmMDg2Y2U1NmI1NDNkMGE0ZWI0ODg1NSIKICAgIH0KICB9Cn0=
         updateSkins: true
       owner:
         uuid: 7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a
@@ -21952,7 +21952,7 @@ npc:
         - 0.0
         - 360.0
       mounttrait:
-        mountedon: b5a5dbe1-684b-4f0d-aabe-f119c80e7400
+        mountedon: bfad79f8-3c22-4ff4-a2fe-d9b0b1f68179
       skintrait:
         signature: BVJKpxzWvtSG0PXYY4kv17qJz8B/ZJr7ZDEKXuEmclGn9BWwkAn9C2RMxIJqEa8o18qhWClTiyFsKFZhXlYGCvZOH87O+e8acQWLf7zcUqf1CAFXuAzW13h9o/vRyqJWlAfIg77y07qZUokjLwQu+TSOVLttrDPnJiHX43TPXpr8AS4HvqjZx7qSOoBCDIvSuClZfw52Drans/h+OdpQ+waKYBqvUWpTAvrHdzWaIsz21XkwC3oUCE9RdY4+FoCF/A1m3SP7A+/damhwPYIfGY+ZIZiyNUpEfKZdx8vlQ/Uh/4ZAQ63hR6zgEncXRRoorNurvpg7qsvrEuUdckJwsdUP44H2rD6NoDR1Rbbc8O4cqyDIiU3ZcLh4maZ2Ab5HOF8nIYUCLpc2DpsaXhutnyed+dW3Ml8USzvnyhC3FHXCnqJpyimarXSrn6/LgIc1Ea9+ZIunBVMv3w/Wy4Vfjv0ilqELNyCFEqzjCyx1hpDdawJY4piWX1OGlxZj3HEgO8E0zWUndWsbpBqoRYO3YCEwM+vXZhFirtI89mlOKJN/is9I54wCXXWrKmFNLkEX5tg6aHwnS6bGI2A8FETVG7csKOK2jvNJfztFyiPauN4VRSCStUm7KiORyAZ627CwOT//ppivECx4OcHGbsvvcgqPQcuv8d7B+E4Ocpz3/wc=
         skinName: SuomiDestiny
@@ -22701,11 +22701,11 @@ npc:
     uuid: 791cd0c6-2efa-4e51-8784-b0043d43404c
     traits:
       location:
-        bodyYaw: -15.458954
-        x: 131.4048
+        bodyYaw: 133.88316
+        x: 152.4423
         y: 67.0
-        z: -294.8443
-        yaw: -15.459
+        z: -298.5937
+        yaw: 133.8832
         pitch: 1.3964
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       waypoints:
@@ -22714,68 +22714,12 @@ npc:
             '11':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 138.0
+                x: 143.0
                 y: 67.0
-                z: -291.0
+                z: -301.0
                 pitch: 0.0
                 yaw: 0.0
             '12':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 143.0
-                y: 67.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '0':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 149.0
-                y: 67.0
-                z: -291.0
-                pitch: 0.0
-                yaw: 0.0
-            '1':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 153.0
-                y: 67.0
-                z: -292.0
-                pitch: 0.0
-                yaw: 0.0
-            '2':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 155.0
-                y: 67.0
-                z: -296.0
-                pitch: 0.0
-                yaw: 0.0
-            '3':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 152.0
-                y: 67.0
-                z: -300.0
-                pitch: 0.0
-                yaw: 0.0
-            '4':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 147.0
-                y: 67.0
-                z: -301.0
-                pitch: 0.0
-                yaw: 0.0
-            '5':
-              location:
-                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
-                x: 143.0
-                y: 67.0
-                z: -301.0
-                pitch: 0.0
-                yaw: 0.0
-            '6':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 139.0
@@ -22783,7 +22727,7 @@ npc:
                 z: -301.0
                 pitch: 0.0
                 yaw: 0.0
-            '7':
+            '0':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 134.0
@@ -22791,7 +22735,7 @@ npc:
                 z: -301.0
                 pitch: 0.0
                 yaw: 0.0
-            '8':
+            '1':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 132.0
@@ -22799,7 +22743,7 @@ npc:
                 z: -298.0
                 pitch: 0.0
                 yaw: 0.0
-            '9':
+            '2':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 131.0
@@ -22807,12 +22751,68 @@ npc:
                 z: -294.0
                 pitch: 0.0
                 yaw: 0.0
-            '10':
+            '3':
               location:
                 worldid: abd288eb-e75f-453e-8ce2-f2018628df29
                 x: 134.0
                 y: 67.0
                 z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '4':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 138.0
+                y: 67.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '5':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 143.0
+                y: 67.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '6':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 149.0
+                y: 67.0
+                z: -291.0
+                pitch: 0.0
+                yaw: 0.0
+            '7':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 153.0
+                y: 67.0
+                z: -292.0
+                pitch: 0.0
+                yaw: 0.0
+            '8':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 155.0
+                y: 67.0
+                z: -296.0
+                pitch: 0.0
+                yaw: 0.0
+            '9':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 152.0
+                y: 67.0
+                z: -300.0
+                pitch: 0.0
+                yaw: 0.0
+            '10':
+              location:
+                worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+                x: 147.0
+                y: 67.0
+                z: -301.0
                 pitch: 0.0
                 yaw: 0.0
         provider: linear
@@ -22844,7 +22844,7 @@ npc:
           pitch: 0.0
           worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       mounttrait:
-        mountedon: e40744ce-e63c-4b4c-8f4e-9e50f3efc352
+        mountedon: 700818b2-5a96-4a87-b79e-5ea3c7a4348c
       location:
         bodyYaw: 89.59158
         x: 50.5
@@ -26369,7 +26369,7 @@ npc:
         x: -2470.4705
         y: 64.0
         z: -98.484
-        yaw: 80.3752
+        yaw: 165.3752
         pitch: 29.6371
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       controllable: {
@@ -30283,7 +30283,7 @@ npc:
     uuid: 44ee0ee1-456d-4cd1-9e88-4f8b6941a434
     traits:
       mounttrait:
-        mountedon: 37ac9429-71f4-4a82-aaaf-58e7dc5a1506
+        mountedon: f9a5a696-fb7d-4d22-bab1-580d1a04431f
       skintrait:
         signature: gWIXxAEOtBVS73jcfGxo8gDMwyzpNjT1qRCC8ZWIBxXLiq/3VvE+fln6LYk+ZVQi49AaMP9KVGqz/++LApf9gn4vWvt8nb6b0yinqFQ5Jl8OWe9+YE8gw1BNJBjha5MB2pFiLxfvbOYXSHHTyfifSm7QbGS5T6JfqlBgxRaPpPnTOwuR3QMqfn8B4QajTFSbDgDXQ6pkNTVaEZ86EbobmaVzD66WzU08qkDqod9wS0g1IOiuLag2s7OwhHZx6JCnMUfqZZrxPxiI4IvEqGQMr/wTAMllPTyl8R71k8urPCyLi6Zf0I6YgrLYGFna2Tjz2OxUMBrDS6FXzQIVe1Cvfzg0IGZ7mPcLhpTSR1MWtkFy3r/tkaSeQNbDmQIYtn2gHZGfNgVxqr6idghg3kZ8HQTKlwGCT91HgIX1lkEP/jF9EdYGERiFyyhoINAw+iF3aHslWigrY77ToahymyJo+vvCNoIPJmX1xeziaVEhWtSDAgojOtyGSjmCKzbH12Hzgv8VvDcshL63oL9UuF2CqmkPUkP714TMQ9CB+MCYodrRGHEZ2peUkkvMB/PaSshfj97ZwkfFnnDYtysSqrJiOz9Mw+JK+RXGo1+6UlFoJpOfQ0svNz0PR2gJfxoXJnAZCpCYIDX0ruwFNEt6ZDCaRL3a8DI4ZYXgGPur/dLUpyA=
         skinName: c8ab34bb-a886-4939-af14-1db3ca7afa0e
@@ -30322,7 +30322,7 @@ npc:
     uuid: b4511aa6-f70d-42dc-977f-7ae729e1f74a
     traits:
       mounttrait:
-        mountedon: 8574f0e5-f613-4f49-8c72-9825a36ddc0a
+        mountedon: ae6f73bb-d1d1-4ac6-9193-51852177d0c1
       skintrait: {
         }
       sittrait:
@@ -34770,9 +34770,9 @@ npc:
         }
       skintrait:
         updateSkins: true
-        signature: k0OgQyHF0O8d41UlY0nDCjJ23ZwdCDDEuLfpVxzovVSZZIzhTziK8W3EAmGezAAStqihGhjv8QLLG07IETp4kdJ66PtcEvx3/Q+8EAC7vbzM7RHT66YyWICrupF/zwfuAOA69gCr8hobkP+NjpsAMHDdXGbSZh8YQkNXzs1tKv/hiG8yy0jA7NlqJSpkpfb5sFvZyT/MdiOcaFDuPM80xlR80hUPL725t6YcAmhucoPzy6uIa+1ynY/4PCwycOpJLBv0a856UzbFYhVSHmdIwb1LHbAQD1FQ6hEBKnF55V9KPhw11yuhMwVi78fbfVadM58ObIneK+rbYAvPaPDbUWI/Te+yTg8nLei2OtYK3bF0jgnhNuM2yeidRfUxrultjiY6Vy6Pmmo/RofWYBEk/06iNawlV99pFb6SAKn1p6+qQ6hKlwciO0QdlpTshIZGYxXq8jID2mZh1a9K8YBdBiWX4nxqnx/GagjQ7HBA/k5jhp3YwdbrPu6UnPhkX2DkySX8jYLJ9aoWihRamf72Rm7Y4d7gnKAM9o3T833diyVLyejdVvAbyJehoQzJT6z5OgZ8na5yEVJBdO9lbQVd/tvACw7CMcV1p5vYS1aOubx2b79+uIyd+hChbSYV9E1mVlodT1A/8gbLK7DC9J2Vt0meD9BXqcw28oiqvHK7X60=
+        signature: Q+YKz1U5ivCc6E3bjBnMf0XTEJ0QoJDFmm36WFrrHG4lyr5CMaVsXJmrtle1lLxYBm8yDZ9Z+bgSnmXT36e6Swyf5BZkJgNs0yONUgB0juZD0VDos5NTaG3vcXJaQOBjdy0J6fP6L3qaZiERDbrFakc2wQzwXEdg58EXlUMQ1lT8U99xaTFfgg2XOgUc/2F21hPsrc8nkzLwc8bhhYrMzqivCI/wfe7N3H9HbppIjcU3ahRVmNV7J+m4KTbP/s+kOVSxg0HBtKddDoAcVNrseeOVkKYp8VVwC64X3WsbgXF+WKSqi1xyyxysPv2ocaegyZau8hws/1KB4d0JWhhagrCR22D80Tpvb/A6ct+owbxyjduT4Aiofj+3dmiJalv8QVMj+KGtUo+NITjLcqXZiTB9xzBtWJg2tphWucxKI5/GzEgHhKkw07iCsd5zg5kBR/168Hl0wrB4JoEeHpcpWa5NCnkTDWAm1rnylMZwm0rRxTG5PxEyOGQTD1auNcKln+GsJBzfv7J0Pd+PXrDhOTepfG3BOIeF5P6nETvZaJFxnWrXbZmsZr5LGN+XMyESNml5k1R6y0SkQAOMiU8nPVtEP7DBzvN5p4yX2rR6hRsvxA1dJlra3lyly5d8aLXdfktqbByyLCJ3eClLUWf+kyN85G52uPNUm3mdQyC15b8=
         skinName: jelliacee
-        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc3NDEwMDIzNjA5NywKICAicHJvZmlsZUlkIiA6ICJlNGExNjE0MmJkM2Q0ZDYyYmM3OTJhOTU2YTIzNmNkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqZWxsaWFjZWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU1YzQxMDcyMWM1YjU4M2RhYTE4YTQ4NDFiOWViMzYyY2JkZWNlZWIxZTdmNTc1ZjE2Y2MxYWI3YWMyYzlmZCIKICAgIH0KICB9Cn0=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTc3OTIwMDQ1MDI4MywKICAicHJvZmlsZUlkIiA6ICJlNGExNjE0MmJkM2Q0ZDYyYmM3OTJhOTU2YTIzNmNkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqZWxsaWFjZWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU1YzQxMDcyMWM1YjU4M2RhYTE4YTQ4NDFiOWViMzYyY2JkZWNlZWIxZTdmNTc1ZjE2Y2MxYWI3YWMyYzlmZCIKICAgIH0KICB9Cn0=
       location:
         bodyYaw: -3.3076172
         x: 115.8734
@@ -39704,11 +39704,11 @@ npc:
     traits:
       type: FOX
       location:
-        bodyYaw: 359.28403
-        x: 604.492
-        y: 68.0
-        z: -1966.3643
-        yaw: -0.716
+        bodyYaw: 276.19495
+        x: 613.726
+        y: 67.0
+        z: -1966.6305
+        yaw: 161.8103
         pitch: 0.0
         worldid: abd288eb-e75f-453e-8ce2-f2018628df29
       owner:
@@ -41519,7 +41519,7 @@ npc:
         partner: -1
         children: ''
       mounttrait:
-        mountedon: 4309ec2b-ed0e-407d-829c-e05947021297
+        mountedon: 2f125a83-a66a-4432-b837-1f45d9949c1e
       sittrait:
         sittingAt:
           x: -337.4899
@@ -45009,7 +45009,7 @@ npc:
         partner: -1
         children: ''
       mounttrait:
-        mountedon: 7022e75f-4f96-4cb1-b8dd-aef19000c9e9
+        mountedon: 2444a4d8-086b-42a2-a90b-17266119c6a5
       scoreboardtrait:
         tags:
         - CITIZENS_NPC
@@ -52202,7 +52202,7 @@ npc:
       personalitytrait:
         personalities: ''
       mounttrait:
-        mountedon: e18fd49d-51eb-4118-b2a6-685ca4805ef0
+        mountedon: 8c93ef0e-537b-42a1-8e4d-a4def9a0a621
       scoreboardtrait:
         tags:
         - CITIZENS_NPC
@@ -54463,7 +54463,7 @@ npc:
       location:
         bodyYaw: 178.77612
         x: 948.4757
-        y: 69.85
+        y: 69.6
         z: -1927.4232
         yaw: 178.7761
         pitch: 5.4065
@@ -54487,7 +54487,7 @@ npc:
         intelligence: 10
         charisma: 10
       mounttrait:
-        mountedon: 41d02c61-6ddd-4b5e-825c-54de7e000a03
+        mountedon: dc3b4312-d508-4538-a6d0-594d40aea144
       sittrait:
         sittingAt:
           x: 948.4757
@@ -60599,3 +60599,63 @@ npc:
       speedmodifier: 1.0
       avoidwater: false
     uuid: 50c37a3b-71d7-4cc5-9cb0-5e7dc3118aa0
+  '1547':
+    metadata:
+      protected: false
+      always-use-name-hologram: false
+      collidable: false
+    traits:
+      scoreboardtrait:
+        tags:
+        - CITIZENS_NPC
+      personalitytrait:
+        personalities: ''
+      faithtrait:
+        id: ''
+      culturetrait:
+        id: ESARIC
+      statstait:
+        dexterity: 10
+        constitution: 10
+        strength: 10
+        charisma: 10
+        intelligence: 10
+      equipment:
+        hand:
+          amount: 1
+          editable_components:
+            edited: false
+            display_name: Nimcha
+          type: iron_sword
+          meta: rO0ABXNyABpvcmcuYnVra2l0LnV0aWwuaW8uV3JhcHBlcvJQR+zxEm8FAgABTAADbWFwdAAPTGphdmEvdXRpbC9NYXA7eHBzcgA1Y29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVNYXAkU2VyaWFsaXplZEZvcm0AAAAAAAAAAAIAAkwABGtleXN0ABJMamF2YS9sYW5nL09iamVjdDtMAAZ2YWx1ZXNxAH4ABHhwdXIAE1tMamF2YS5sYW5nLk9iamVjdDuQzlifEHMpbAIAAHhwAAAAA3QAAj09dAAJbWV0YS10eXBldAAMZGlzcGxheS1uYW1ldXEAfgAGAAAAA3QACEl0ZW1NZXRhdAAKVU5TUEVDSUZJQ3QACCJOaW1jaGEi
+      location:
+        worldid: abd288eb-e75f-453e-8ce2-f2018628df29
+        x: 195.5968
+        y: 64.0
+        z: 1240.8457
+        pitch: 7.0499
+        bodyYaw: -177.92073
+        yaw: -177.9207
+      type: PLAYER
+      attributetrait:
+        attributes:
+          minecraft:scale: 1.081326382889865
+      family:
+        mother: -1
+        partner: -1
+        children: ''
+        father: -1
+      inventory:
+      - amount: 1
+        editable_components:
+          edited: false
+          display_name: Nimcha
+        meta: rO0ABXNyABpvcmcuYnVra2l0LnV0aWwuaW8uV3JhcHBlcvJQR+zxEm8FAgABTAADbWFwdAAPTGphdmEvdXRpbC9NYXA7eHBzcgA1Y29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFibGVNYXAkU2VyaWFsaXplZEZvcm0AAAAAAAAAAAIAAkwABGtleXN0ABJMamF2YS9sYW5nL09iamVjdDtMAAZ2YWx1ZXNxAH4ABHhwdXIAE1tMamF2YS5sYW5nLk9iamVjdDuQzlifEHMpbAIAAHhwAAAAA3QAAj09dAAJbWV0YS10eXBldAAMZGlzcGxheS1uYW1ldXEAfgAGAAAAA3QACEl0ZW1NZXRhdAAKVU5TUEVDSUZJQ3QACCJOaW1jaGEi
+        type: iron_sword
+    traitnames: spawned,scoreboardtrait,personalitytrait,faithtrait,skintrait,statstait,equipment,type,inventory,attributetrait,culturetrait,location,family,chunktickettrait
+    name: Khaldun Norouzi
+    navigator:
+      usedefaultstuckaction: false
+      speedmodifier: 1.0
+      avoidwater: false
+    uuid: 5ba695b5-3358-4e32-9b94-0526d7c5d281

@@ -5,45 +5,6 @@
       "name": "Xorrad",
       "uniqueId": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a"
     },
-    "time": 1769276977623,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/q7vFhyCERE"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "Xorrad",
-      "uniqueId": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a"
-    },
-    "time": 1769267071503,
-    "type": "Profiler (live)",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/ylqAYdFPMi"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "Xorrad",
-      "uniqueId": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a"
-    },
-    "time": 1769266822780,
-    "type": "Heap dump summary",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/YhsVydFkpO"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "Xorrad",
-      "uniqueId": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a"
-    },
     "time": 1769266678586,
     "type": "Heap dump",
     "data": {
