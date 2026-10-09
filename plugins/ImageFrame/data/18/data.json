@@ -1,0 +1,89 @@
+{
+  "type": "imageframe:url_static",
+  "index": 18,
+  "name": "basilica_san_giacomo",
+  "url": "https://i.ibb.co/KpqyHYCD/1000-F-302049530-Kmk-OJ4-Cxx3q-Bh-OVx-E53p4wn-Em-Ro-Q02h-B.jpg",
+  "width": 3,
+  "height": 5,
+  "ditheringType": "nearest-color",
+  "creator": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a",
+  "hasAccess": {},
+  "creationTime": 1791346361586,
+  "mapdata": [
+    {
+      "mapid": 195,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 196,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 197,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 198,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 199,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 200,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 201,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 202,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 203,
+      "image": "8.png",
+      "markers": []
+    },
+    {
+      "mapid": 204,
+      "image": "9.png",
+      "markers": []
+    },
+    {
+      "mapid": 205,
+      "image": "10.png",
+      "markers": []
+    },
+    {
+      "mapid": 206,
+      "image": "11.png",
+      "markers": []
+    },
+    {
+      "mapid": 207,
+      "image": "12.png",
+      "markers": []
+    },
+    {
+      "mapid": 208,
+      "image": "13.png",
+      "markers": []
+    },
+    {
+      "mapid": 209,
+      "image": "14.png",
+      "markers": []
+    }
+  ]
+}

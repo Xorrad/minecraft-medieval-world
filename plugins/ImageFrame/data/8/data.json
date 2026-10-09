@@ -1,0 +1,24 @@
+{
+  "type": "imageframe:url_static",
+  "index": 8,
+  "name": "mercury_pompei",
+  "url": "https://i.ibb.co/tTRFf6yz/istockphoto-496355717-612x612.jpg",
+  "width": 1,
+  "height": 2,
+  "ditheringType": "nearest-color",
+  "creator": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a",
+  "hasAccess": {},
+  "creationTime": 1786710116512,
+  "mapdata": [
+    {
+      "mapid": 104,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 105,
+      "image": "1.png",
+      "markers": []
+    }
+  ]
+}

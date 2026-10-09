@@ -3,6 +3,11 @@ ESARIC:
   name-manager:
     type: list
     file-path: names/esaric
+ELLINIKA:
+  name: Elliniká
+  name-manager:
+    type: list
+    file-path: names/ellinika
 NORDEN:
   name: Norden
   name-manager:

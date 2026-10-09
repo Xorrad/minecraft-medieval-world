@@ -64,6 +64,9 @@ npc:
       maximum-search-blocks: 1024
       # Whether to open doors while pathfinding (should close them as well)
       open-doors: false
+      # Whether to simulate jumping while pathfinding - increases pathfinding CPU cost.
+      # Async pathfinder recommended. Still experimental.
+      experimental-jumps: false
     # Debug pathfinding by showing fake target blocks
     debug-paths: false
     # Default duration in the same location before the NPC considers itself stuck and failed pathfinding
@@ -281,7 +284,7 @@ general:
     message: <a>
   translation:
     # Controls translation files - defaults to your system language, set to en if English required
-    locale: ''
+    locale: en
   # Entities are no longer spawned until the chunks are loaded from disk
   # Wait for chunk loading for one second by default, increase if your disk is slow
   wait-for-entity-spawn: 1s

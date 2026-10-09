@@ -62,7 +62,7 @@ Options:
     allow-sit: true
 
     # Allow players to sit on NPCs by clicking
-    allow-sit-npc: true
+    allow-sit-npc: false
 
     # Maximum number of players that can be stacked (0 means unlimited)
     max-stack: 0

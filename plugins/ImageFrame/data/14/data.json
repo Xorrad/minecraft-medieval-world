@@ -1,0 +1,174 @@
+{
+  "type": "imageframe:url_static",
+  "index": 14,
+  "name": "dolphin_fresco",
+  "url": "https://i.ibb.co/vvqwp6Nx/1000-F-402689260-n-Wi8-UEww-Cu-V29-Yih-SHp-Nus-Ve05-JV3thg.png",
+  "width": 8,
+  "height": 4,
+  "ditheringType": "nearest-color",
+  "creator": "7d1d207d-e8cf-489c-99f2-0ecb76c2cd9a",
+  "hasAccess": {},
+  "creationTime": 1788885306042,
+  "mapdata": [
+    {
+      "mapid": 143,
+      "image": "0.png",
+      "markers": []
+    },
+    {
+      "mapid": 144,
+      "image": "1.png",
+      "markers": []
+    },
+    {
+      "mapid": 145,
+      "image": "2.png",
+      "markers": []
+    },
+    {
+      "mapid": 146,
+      "image": "3.png",
+      "markers": []
+    },
+    {
+      "mapid": 147,
+      "image": "4.png",
+      "markers": []
+    },
+    {
+      "mapid": 148,
+      "image": "5.png",
+      "markers": []
+    },
+    {
+      "mapid": 149,
+      "image": "6.png",
+      "markers": []
+    },
+    {
+      "mapid": 150,
+      "image": "7.png",
+      "markers": []
+    },
+    {
+      "mapid": 151,
+      "image": "8.png",
+      "markers": []
+    },
+    {
+      "mapid": 152,
+      "image": "9.png",
+      "markers": []
+    },
+    {
+      "mapid": 153,
+      "image": "10.png",
+      "markers": []
+    },
+    {
+      "mapid": 154,
+      "image": "11.png",
+      "markers": []
+    },
+    {
+      "mapid": 155,
+      "image": "12.png",
+      "markers": []
+    },
+    {
+      "mapid": 156,
+      "image": "13.png",
+      "markers": []
+    },
+    {
+      "mapid": 157,
+      "image": "14.png",
+      "markers": []
+    },
+    {
+      "mapid": 158,
+      "image": "15.png",
+      "markers": []
+    },
+    {
+      "mapid": 159,
+      "image": "16.png",
+      "markers": []
+    },
+    {
+      "mapid": 160,
+      "image": "17.png",
+      "markers": []
+    },
+    {
+      "mapid": 161,
+      "image": "18.png",
+      "markers": []
+    },
+    {
+      "mapid": 162,
+      "image": "19.png",
+      "markers": []
+    },
+    {
+      "mapid": 163,
+      "image": "20.png",
+      "markers": []
+    },
+    {
+      "mapid": 164,
+      "image": "21.png",
+      "markers": []
+    },
+    {
+      "mapid": 165,
+      "image": "22.png",
+      "markers": []
+    },
+    {
+      "mapid": 166,
+      "image": "23.png",
+      "markers": []
+    },
+    {
+      "mapid": 167,
+      "image": "24.png",
+      "markers": []
+    },
+    {
+      "mapid": 168,
+      "image": "25.png",
+      "markers": []
+    },
+    {
+      "mapid": 169,
+      "image": "26.png",
+      "markers": []
+    },
+    {
+      "mapid": 170,
+      "image": "27.png",
+      "markers": []
+    },
+    {
+      "mapid": 171,
+      "image": "28.png",
+      "markers": []
+    },
+    {
+      "mapid": 172,
+      "image": "29.png",
+      "markers": []
+    },
+    {
+      "mapid": 173,
+      "image": "30.png",
+      "markers": []
+    },
+    {
+      "mapid": 174,
+      "image": "31.png",
+      "markers": []
+    }
+  ]
+}

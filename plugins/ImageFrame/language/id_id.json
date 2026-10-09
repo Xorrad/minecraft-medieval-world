@@ -6,7 +6,7 @@
   "imageframe.messages.image_map_processing_action_bar": "ImageMap %1$s sedang memproses%2$s",
   "imageframe.messages.image_map_queued_action_bar": "ImageMap %1$s sedang dalam antrian (%2$s Tersisa)",
   "imageframe.messages.image_map_created": "ImageMap telah dibuat!",
-  "imageframe.messages.image_map_refreshed": "ImageMap has been refreshed!",
+  "imageframe.messages.image_map_refreshed": "",
   "imageframe.messages.image_map_deleted": "ImageMap telah di hapus!",
   "imageframe.messages.image_map_renamed": "ImageMap telah di beri nama baru!",
   "imageframe.messages.image_map_toggle_paused": "Toggled ImageMap playback pause!",

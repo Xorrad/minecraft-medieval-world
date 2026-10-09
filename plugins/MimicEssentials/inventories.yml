@@ -10,117 +10,86 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/3XKsQ6DIBSF4RPRFBmsz9NR4+7QF7ilaIh4SeAuffsyOLC4nT/fMYDBMIVoj4XFy+9New+9kohLnA0ApfG4Gk3ICt0cQ0xFnqgp3ZLaQqyshUI7UXZlDxqN/2I8PTubaJPXh5hduf0BVJQvUJoAAAA=
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: RED_BANNER
-    meta:
-      ==: ItemMeta
-      meta-type: BANNER
-      patterns:
-      - ==: Pattern
-        color: BLACK
-        pattern: ls
-      - ==: Pattern
-        color: BLACK
-        pattern: rs
-      - ==: Pattern
-        color: YELLOW
-        pattern: flo
+    DataVersion: 4671
+    id: minecraft:red_banner
+    count: 1
+    components:
+      minecraft:banner_patterns: '[{color:"black",pattern:"minecraft:stripe_left"},{color:"black",pattern:"minecraft:stripe_right"},{color:"yellow",pattern:"minecraft:flower"}]'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STICK
-    amount: 18
+    DataVersion: 4671
+    id: minecraft:stick
+    count: 18
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STICK
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Baguette
-        de selection"}],"text":""}'
+    DataVersion: 4671
+    id: minecraft:stick
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Baguette
+        de selection",underlined:0b}],text:""}'
+    schema_version: 1
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: NETHERITE_SWORD
+    DataVersion: 4671
+    id: minecraft:netherite_sword
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BOW
+    DataVersion: 4671
+    id: minecraft:bow
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/1XLMQ6DMBBE0ZFNhOMi4TyUIPoUucBCDLIwu5K9TW4fIqVwytH74wGP25Bk2SfWqO8nbVe4B6mGzMUDsA7tb8Mc2eIySpJ8SoOK7JqksnttZpa/m0UzUAnfzMHEF7ojclgyrdrPxBzO7ANny8vemgAAAA==
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;67411088,-739686879,-1666252800,-1431948763],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0="}]}'
+    schema_version: 1
   - null
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: POTION
-    meta:
-      ==: ItemMeta
-      meta-type: POTION
-      potion-type: minecraft:strong_strength
+    DataVersion: 4671
+    id: minecraft:potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:strong_strength"}'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPLASH_POTION
-    meta:
-      ==: ItemMeta
-      meta-type: POTION
-      potion-type: minecraft:strong_healing
+    DataVersion: 4671
+    id: minecraft:splash_potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:strong_healing"}'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BLACK_BANNER
-    meta:
-      ==: ItemMeta
-      meta-type: BANNER
-      lore:
-      - '"(+NBT)"'
-      patterns:
-      - ==: Pattern
-        color: YELLOW
-        pattern: mr
-      - ==: Pattern
-        color: BLACK
-        pattern: flo
-      - ==: Pattern
-        color: YELLOW
-        pattern: bo
-      - ==: Pattern
-        color: BLACK
-        pattern: bo
+    DataVersion: 4671
+    id: minecraft:black_banner
+    count: 1
+    components:
+      minecraft:banner_patterns: '[{color:"yellow",pattern:"minecraft:rhombus"},{color:"black",pattern:"minecraft:flower"},{color:"yellow",pattern:"minecraft:border"},{color:"black",pattern:"minecraft:border"}]'
+      minecraft:lore: '["(+NBT)"]'
+    schema_version: 1
   - null
   - null
   - null
@@ -128,19 +97,19 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GOAT_HORN
-    meta:
-      ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:ponder_goat_horn
+    DataVersion: 4671
+    id: minecraft:goat_horn
+    count: 1
+    components:
+      minecraft:instrument: '"minecraft:ponder_goat_horn"'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GOAT_HORN
-    meta:
-      ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:dream_goat_horn
+    DataVersion: 4671
+    id: minecraft:goat_horn
+    count: 1
+    components:
+      minecraft:instrument: '"minecraft:dream_goat_horn"'
+    schema_version: 1
   - null
   - null
   - null
@@ -149,29 +118,45 @@
   pattern:
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BROWN_WOOL
+    DataVersion: 4671
+    id: minecraft:brown_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BLACK_WOOL
+    DataVersion: 4671
+    id: minecraft:black_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PURPLE_WOOL
+    DataVersion: 4671
+    id: minecraft:purple_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: YELLOW_WOOL
+    DataVersion: 4671
+    id: minecraft:yellow_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GRAY_WOOL
+    DataVersion: 4671
+    id: minecraft:gray_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: LIME_WOOL
+    DataVersion: 4671
+    id: minecraft:lime_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BLUE_WOOL
+    DataVersion: 4671
+    id: minecraft:blue_wool
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: WHITE_WOOL
+    DataVersion: 4671
+    id: minecraft:white_wool
+    count: 1
+    schema_version: 1
   - null
   - null
   - null
@@ -212,46 +197,20 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: CAULDRON
+    DataVersion: 4671
+    id: minecraft:cauldron
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BARREL
+    DataVersion: 4671
+    id: minecraft:barrel
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: DECORATED_POT
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: 84abb1f0-6f24-497e-b7fe-906240055c06
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwNmU0NTMxOGU5YTRhNmJmZTEzMmYyMDJmZTNjZWFjMTVkMTFlYWVkYmVmMWViMDZhMzc2ZGI0MzMwOTBhOCJ9fX0=
-  - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      display-name: '{"text":"Bag of Coins"}'
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: a3ee20f5-6c9d-40d2-96e0-24705988f268
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVmZDY3ZDU2ZmZjNTNmYjM2MGExNzg3OWQ5YjUzMzhkNzMzMmQ4ZjEyOTQ5MWE1ZTE3ZThkNmU4YWVhNmMzYSJ9fX0=
+    DataVersion: 4671
+    id: minecraft:decorated_pot
+    count: 1
+    schema_version: 1
   - null
   - null
   - null
@@ -260,32 +219,42 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: a9ca983b-68ad-488b-a664-3030824e88ef
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyMDUxNWQ2NTE2ODE5MTE0M2Q3OWUxMTEwNDU5NWRkN2Q4YzE0Y2Y1NjQ1YWVhMGRlZTQ3ZTE2YTU4OTk0NSJ9fX0=
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;-2069122576,1864649086,-1208053662,1074093062],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwNmU0NTMxOGU5YTRhNmJmZTEzMmYyMDJmZTNjZWFjMTVkMTFlYWVkYmVmMWViMDZhMzc2ZGI0MzMwOTBhOCJ9fX0="}]}'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      display-name: '{"text":"Glass of Beer"}'
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: 69bcc186-fe80-4635-a085-9cec311d8d9f
-        name: Thanauser
-        properties:
-        - name: textures
-          value: ewogICJ0aW1lc3RhbXAiIDogMTY5MTMzNTUzMzQ4MSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwZTI1ZmMyZmFmOTVmNGQ4N2QyNGNjNWUyNjBkYTBiNjRhZmU5NmZlZGNlMWRlYmZmZjFjODFjODg2ZjFiMiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=
-          signature: vsMB5AAdVB2Vcp0LstncWG2yTHPDj6Wse7b6kcXG7ivEYpcNa5+cOIXrVGvCzJZyE8DNGHgwulvNs+Ln/WdQwXyYDN4C5B5s9ed9nCwjQMOBWBcPbYa4Kx0v/AaECxrpbUN9K7ZT9P6LD/PEuCv3ZUEBvPszIpdRYfhMwWKlfpfv4dYxlJcipzM/YLEA8lSMbJXgnJFe2Dc2HP6ms3T1wTGcsU8OhSPNZdyZETO10JrGjhSUxtCmllV16Bn8zkaXDnM3e+JQ0KDLwM3RdPwtucnPsZI1xQCAZBFtA4vRhDro6GGAWiu8BQgLbji60jJrNcOb9PmvO//pqZhampyy91/bARYooYIsMO3ad6AtNL+61Ok0rZNWqsetc0zaWSDlJ1nTmgbdT2XTV5EgxuX+vX+VavLAKCVuGEhprU8Q7LCBU5H5vY0x/ZLRYxqu/8BJvKTZoVlYV2KRLSKjiRPyEHLiUyrhI/dlgoyb1C+bsZqhHX4QKsjBWFyBI/LuqDEBL1Sf+VLn/HHbOLFjO/dYLKVvWbNj1UXbWxK/HfJFcqirOUKCgpY7tnaOC5W2iJLpqD5w3J2yDXEIgJy8myhXljEEpBU99sjXB3vGTda4L3HfQOIqkvT7nCtJsErxBeMDxrWuvXd311DlkS6Uiay2CLxAsrIIPnkLSDU+qD77SCQ=
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;-1544675083,1822245074,-1763695504,1502147176],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVmZDY3ZDU2ZmZjNTNmYjM2MGExNzg3OWQ5YjUzMzhkNzMzMmQ4ZjEyOTQ5MWE1ZTE3ZThkNmU4YWVhNmMzYSJ9fX0="}]}'
+      minecraft:custom_name: '"Bag of Coins"'
+    schema_version: 1
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;-1446340549,1756186763,-1503383504,-2108782353],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QyMDUxNWQ2NTE2ODE5MTE0M2Q3OWUxMTEwNDU5NWRkN2Q4YzE0Y2Y1NjQ1YWVhMGRlZTQ3ZTE2YTU4OTk0NSJ9fX0="}]}'
+    schema_version: 1
+  - ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;1773977990,-25147851,-1601856276,824020383],name:"Thanauser",properties:[{name:"textures",signature:"vsMB5AAdVB2Vcp0LstncWG2yTHPDj6Wse7b6kcXG7ivEYpcNa5+cOIXrVGvCzJZyE8DNGHgwulvNs+Ln/WdQwXyYDN4C5B5s9ed9nCwjQMOBWBcPbYa4Kx0v/AaECxrpbUN9K7ZT9P6LD/PEuCv3ZUEBvPszIpdRYfhMwWKlfpfv4dYxlJcipzM/YLEA8lSMbJXgnJFe2Dc2HP6ms3T1wTGcsU8OhSPNZdyZETO10JrGjhSUxtCmllV16Bn8zkaXDnM3e+JQ0KDLwM3RdPwtucnPsZI1xQCAZBFtA4vRhDro6GGAWiu8BQgLbji60jJrNcOb9PmvO//pqZhampyy91/bARYooYIsMO3ad6AtNL+61Ok0rZNWqsetc0zaWSDlJ1nTmgbdT2XTV5EgxuX+vX+VavLAKCVuGEhprU8Q7LCBU5H5vY0x/ZLRYxqu/8BJvKTZoVlYV2KRLSKjiRPyEHLiUyrhI/dlgoyb1C+bsZqhHX4QKsjBWFyBI/LuqDEBL1Sf+VLn/HHbOLFjO/dYLKVvWbNj1UXbWxK/HfJFcqirOUKCgpY7tnaOC5W2iJLpqD5w3J2yDXEIgJy8myhXljEEpBU99sjXB3vGTda4L3HfQOIqkvT7nCtJsErxBeMDxrWuvXd311DlkS6Uiay2CLxAsrIIPnkLSDU+qD77SCQ=",value:"ewogICJ0aW1lc3RhbXAiIDogMTY5MTMzNTUzMzQ4MSwKICAicHJvZmlsZUlkIiA6ICI2OWJjYzE4NmZlODA0NjM1YTA4NTljZWMzMTFkOGQ5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFuYXVzZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwZTI1ZmMyZmFmOTVmNGQ4N2QyNGNjNWUyNjBkYTBiNjRhZmU5NmZlZGNlMWRlYmZmZjFjODFjODg2ZjFiMiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0="}]}'
+      minecraft:custom_name: '"Glass of Beer"'
+    schema_version: 1
   - null
   - null
   - null
@@ -302,39 +271,60 @@
   - null
   viking:
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: WOODEN_AXE
+    DataVersion: 4671
+    id: minecraft:wooden_axe
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_TRAPDOOR
+    DataVersion: 4671
+    id: minecraft:spruce_trapdoor
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STRIPPED_SPRUCE_WOOD
-    amount: 64
+    DataVersion: 4671
+    id: minecraft:stripped_spruce_wood
+    count: 64
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: MOSS_BLOCK
+    DataVersion: 4671
+    id: minecraft:moss_block
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_FENCE_GATE
+    DataVersion: 4671
+    id: minecraft:spruce_fence_gate
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_STAIRS
+    DataVersion: 4671
+    id: minecraft:spruce_stairs
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_SLAB
+    DataVersion: 4671
+    id: minecraft:spruce_slab
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_PLANKS
+    DataVersion: 4671
+    id: minecraft:spruce_planks
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STRIPPED_DARK_OAK_WOOD
+    DataVersion: 4671
+    id: minecraft:stripped_dark_oak_wood
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_FENCE
+    DataVersion: 4671
+    id: minecraft:spruce_fence
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPRUCE_PLANKS
+    DataVersion: 4671
+    id: minecraft:spruce_planks
+    count: 1
+    schema_version: 1
   - null
   - null
   - null
@@ -359,11 +349,15 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BONE_MEAL
+    DataVersion: 4671
+    id: minecraft:bone_meal
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GOLDEN_PICKAXE
+    DataVersion: 4671
+    id: minecraft:golden_pickaxe
+    count: 1
+    schema_version: 1
   - null
   - null
   - null
@@ -380,117 +374,86 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/3XKsQ6DIBSF4RPRFBmsz9NR4+7QF7ilaIh4SeAuffsyOLC4nT/fMYDBMIVoj4XFy+9New+9kohLnA0ApfG4Gk3ICt0cQ0xFnqgp3ZLaQqyshUI7UXZlDxqN/2I8PTubaJPXh5hduf0BVJQvUJoAAAA=
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: RED_BANNER
-    meta:
-      ==: ItemMeta
-      meta-type: BANNER
-      patterns:
-      - ==: Pattern
-        color: BLACK
-        pattern: ls
-      - ==: Pattern
-        color: BLACK
-        pattern: rs
-      - ==: Pattern
-        color: YELLOW
-        pattern: flo
+    DataVersion: 4671
+    id: minecraft:red_banner
+    count: 1
+    components:
+      minecraft:banner_patterns: '[{color:"black",pattern:"minecraft:stripe_left"},{color:"black",pattern:"minecraft:stripe_right"},{color:"yellow",pattern:"minecraft:flower"}]'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STICK
-    amount: 18
+    DataVersion: 4671
+    id: minecraft:stick
+    count: 18
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: STICK
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Baguette
-        de selection"}],"text":""}'
+    DataVersion: 4671
+    id: minecraft:stick
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Baguette
+        de selection",underlined:0b}],text:""}'
+    schema_version: 1
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: NETHERITE_SWORD
+    DataVersion: 4671
+    id: minecraft:netherite_sword
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BOW
+    DataVersion: 4671
+    id: minecraft:bow
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/1XLMQ6DMBBE0ZFNhOMi4TyUIPoUucBCDLIwu5K9TW4fIqVwytH74wGP25Bk2SfWqO8nbVe4B6mGzMUDsA7tb8Mc2eIySpJ8SoOK7JqksnttZpa/m0UzUAnfzMHEF7ojclgyrdrPxBzO7ANny8vemgAAAA==
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElM52TgCEgsKUktyivmYmBgYOZgYIfyGZhyipkZWJ3zc/KLgDL8DMhSRTilmNNy8pHkWBiYGVicEotTgWw+BgYAJwaljIMAAAA=
-      blockMaterial: SHIELD
+    DataVersion: 4671
+    id: minecraft:shield
+    count: 1
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: PLAYER_HEAD
-    meta:
-      ==: ItemMeta
-      meta-type: SKULL
-      skull-owner:
-        ==: PlayerProfile
-        uniqueId: 04049c90-d3e9-4621-9caf-0000aaa63225
-        properties:
-        - name: textures
-          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0=
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;67411088,-739686879,-1666252800,-1431948763],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDIyZGU5YWFkMDY2MmFjNDNmZjIwOWJiODZhMzBmMDRmYzIyZWJhYjNmOTNlNjcxOWNhYTdhODBiYjM4YThhYiJ9fX0="}]}'
+    schema_version: 1
   - null
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: POTION
-    meta:
-      ==: ItemMeta
-      meta-type: POTION
-      potion-type: minecraft:strong_strength
+    DataVersion: 4671
+    id: minecraft:potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:strong_strength"}'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: SPLASH_POTION
-    meta:
-      ==: ItemMeta
-      meta-type: POTION
-      potion-type: minecraft:strong_healing
+    DataVersion: 4671
+    id: minecraft:splash_potion
+    count: 1
+    components:
+      minecraft:potion_contents: '{potion:"minecraft:strong_healing"}'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: BLACK_BANNER
-    meta:
-      ==: ItemMeta
-      meta-type: BANNER
-      lore:
-      - '"(+NBT)"'
-      patterns:
-      - ==: Pattern
-        color: YELLOW
-        pattern: mr
-      - ==: Pattern
-        color: BLACK
-        pattern: flo
-      - ==: Pattern
-        color: YELLOW
-        pattern: bo
-      - ==: Pattern
-        color: BLACK
-        pattern: bo
+    DataVersion: 4671
+    id: minecraft:black_banner
+    count: 1
+    components:
+      minecraft:banner_patterns: '[{color:"yellow",pattern:"minecraft:rhombus"},{color:"black",pattern:"minecraft:flower"},{color:"yellow",pattern:"minecraft:border"},{color:"black",pattern:"minecraft:border"}]'
+      minecraft:lore: '["(+NBT)"]'
+    schema_version: 1
   - null
   - null
   - null
@@ -498,19 +461,19 @@
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GOAT_HORN
-    meta:
-      ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:ponder_goat_horn
+    DataVersion: 4671
+    id: minecraft:goat_horn
+    count: 1
+    components:
+      minecraft:instrument: '"minecraft:ponder_goat_horn"'
+    schema_version: 1
   - ==: org.bukkit.inventory.ItemStack
-    v: 3465
-    type: GOAT_HORN
-    meta:
-      ==: ItemMeta
-      meta-type: MUSIC_INSTRUMENT
-      instrument: minecraft:dream_goat_horn
+    DataVersion: 4671
+    id: minecraft:goat_horn
+    count: 1
+    components:
+      minecraft:instrument: '"minecraft:dream_goat_horn"'
+    schema_version: 1
   - null
   - null
   - null
